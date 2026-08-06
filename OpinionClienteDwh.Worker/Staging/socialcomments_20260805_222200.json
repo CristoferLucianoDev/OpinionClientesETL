@@ -1,0 +1,786 @@
+[
+  {
+    "IdOriginal": "T0001",
+    "IdCliente": 19,
+    "IdProducto": 3,
+    "Fecha": "2025-06-15T00:00:00",
+    "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad"
+  },
+  {
+    "IdOriginal": "T0005",
+    "IdCliente": 31,
+    "IdProducto": 10,
+    "Fecha": "2025-09-04T00:00:00",
+    "Comentario": "No cumple con lo anunciado, insatisfecho"
+  },
+  {
+    "IdOriginal": "T0007",
+    "IdCliente": 36,
+    "IdProducto": 17,
+    "Fecha": "2025-07-20T00:00:00",
+    "Comentario": "No funciona como esperaba, decepcionado"
+  },
+  {
+    "IdOriginal": "T0009",
+    "IdCliente": 21,
+    "IdProducto": 10,
+    "Fecha": "2025-07-09T00:00:00",
+    "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad"
+  },
+  {
+    "IdOriginal": "T0012",
+    "IdCliente": 40,
+    "IdProducto": 5,
+    "Fecha": "2025-07-03T00:00:00",
+    "Comentario": "Satisface lo b\u00E1sico"
+  },
+  {
+    "IdOriginal": "T0015",
+    "IdCliente": 35,
+    "IdProducto": 1,
+    "Fecha": "2025-08-13T00:00:00",
+    "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto"
+  },
+  {
+    "IdOriginal": "T0016",
+    "IdCliente": 5,
+    "IdProducto": 13,
+    "Fecha": "2025-07-22T00:00:00",
+    "Comentario": "No funciona como esperaba, decepcionado"
+  },
+  {
+    "IdOriginal": "T0017",
+    "IdCliente": 22,
+    "IdProducto": 16,
+    "Fecha": "2025-08-04T00:00:00",
+    "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado"
+  },
+  {
+    "IdOriginal": "T0019",
+    "IdCliente": 30,
+    "IdProducto": 4,
+    "Fecha": "2025-08-26T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0020",
+    "IdCliente": 25,
+    "IdProducto": 4,
+    "Fecha": "2025-08-24T00:00:00",
+    "Comentario": "Entrega correcta, sin comentarios adicionales"
+  },
+  {
+    "IdOriginal": "T0022",
+    "IdCliente": 20,
+    "IdProducto": 17,
+    "Fecha": "2025-07-11T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  },
+  {
+    "IdOriginal": "T0024",
+    "IdCliente": 31,
+    "IdProducto": 10,
+    "Fecha": "2025-07-20T00:00:00",
+    "Comentario": "Me encanta este producto, excelente calidad"
+  },
+  {
+    "IdOriginal": "T0026",
+    "IdCliente": 36,
+    "IdProducto": 13,
+    "Fecha": "2025-09-04T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0027",
+    "IdCliente": 36,
+    "IdProducto": 13,
+    "Fecha": "2025-06-27T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0028",
+    "IdCliente": 7,
+    "IdProducto": 4,
+    "Fecha": "2025-07-29T00:00:00",
+    "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto"
+  },
+  {
+    "IdOriginal": "T0029",
+    "IdCliente": 33,
+    "IdProducto": 5,
+    "Fecha": "2025-09-09T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  },
+  {
+    "IdOriginal": "T0034",
+    "IdCliente": 8,
+    "IdProducto": 1,
+    "Fecha": "2025-06-17T00:00:00",
+    "Comentario": "Satisface lo b\u00E1sico"
+  },
+  {
+    "IdOriginal": "T0035",
+    "IdCliente": 17,
+    "IdProducto": 1,
+    "Fecha": "2025-08-15T00:00:00",
+    "Comentario": "Satisface lo b\u00E1sico"
+  },
+  {
+    "IdOriginal": "T0036",
+    "IdCliente": 11,
+    "IdProducto": 2,
+    "Fecha": "2025-08-26T00:00:00",
+    "Comentario": "P\u00E9sima atenci\u00F3n al cliente"
+  },
+  {
+    "IdOriginal": "T0037",
+    "IdCliente": 8,
+    "IdProducto": 8,
+    "Fecha": "2025-07-22T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0038",
+    "IdCliente": 14,
+    "IdProducto": 5,
+    "Fecha": "2025-09-06T00:00:00",
+    "Comentario": "P\u00E9sima atenci\u00F3n al cliente"
+  },
+  {
+    "IdOriginal": "T0039",
+    "IdCliente": 36,
+    "IdProducto": 5,
+    "Fecha": "2025-07-27T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0044",
+    "IdCliente": 18,
+    "IdProducto": 12,
+    "Fecha": "2025-07-06T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0046",
+    "IdCliente": 6,
+    "IdProducto": 2,
+    "Fecha": "2025-08-12T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0047",
+    "IdCliente": 35,
+    "IdProducto": 16,
+    "Fecha": "2025-08-10T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0048",
+    "IdCliente": 38,
+    "IdProducto": 5,
+    "Fecha": "2025-07-08T00:00:00",
+    "Comentario": "Me encanta este producto, excelente calidad"
+  },
+  {
+    "IdOriginal": "T0051",
+    "IdCliente": 13,
+    "IdProducto": 16,
+    "Fecha": "2025-08-08T00:00:00",
+    "Comentario": "Es lo que esperaba, nada excepcional"
+  },
+  {
+    "IdOriginal": "T0054",
+    "IdCliente": 19,
+    "IdProducto": 16,
+    "Fecha": "2025-07-03T00:00:00",
+    "Comentario": "Producto recibido, cumple su funci\u00F3n"
+  },
+  {
+    "IdOriginal": "T0055",
+    "IdCliente": 22,
+    "IdProducto": 20,
+    "Fecha": "2025-07-12T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0058",
+    "IdCliente": 13,
+    "IdProducto": 10,
+    "Fecha": "2025-07-10T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0059",
+    "IdCliente": 7,
+    "IdProducto": 11,
+    "Fecha": "2025-08-03T00:00:00",
+    "Comentario": "Muy satisfecho con la compra, lo recomiendo"
+  },
+  {
+    "IdOriginal": "T0060",
+    "IdCliente": 25,
+    "IdProducto": 8,
+    "Fecha": "2025-08-06T00:00:00",
+    "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto"
+  },
+  {
+    "IdOriginal": "T0064",
+    "IdCliente": 15,
+    "IdProducto": 10,
+    "Fecha": "2025-08-25T00:00:00",
+    "Comentario": "Muy satisfecho con la compra, lo recomiendo"
+  },
+  {
+    "IdOriginal": "T0068",
+    "IdCliente": 37,
+    "IdProducto": 12,
+    "Fecha": "2025-08-19T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0069",
+    "IdCliente": 11,
+    "IdProducto": 19,
+    "Fecha": "2025-08-30T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0071",
+    "IdCliente": 27,
+    "IdProducto": 15,
+    "Fecha": "2025-07-16T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  },
+  {
+    "IdOriginal": "T0073",
+    "IdCliente": 28,
+    "IdProducto": 19,
+    "Fecha": "2025-09-06T00:00:00",
+    "Comentario": "Me encanta este producto, excelente calidad"
+  },
+  {
+    "IdOriginal": "T0077",
+    "IdCliente": 23,
+    "IdProducto": 18,
+    "Fecha": "2025-07-08T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0080",
+    "IdCliente": 10,
+    "IdProducto": 8,
+    "Fecha": "2025-06-21T00:00:00",
+    "Comentario": "Me encanta este producto, excelente calidad"
+  },
+  {
+    "IdOriginal": "T0082",
+    "IdCliente": 3,
+    "IdProducto": 3,
+    "Fecha": "2025-09-08T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  },
+  {
+    "IdOriginal": "T0083",
+    "IdCliente": 35,
+    "IdProducto": 13,
+    "Fecha": "2025-07-11T00:00:00",
+    "Comentario": "Me encanta este producto, excelente calidad"
+  },
+  {
+    "IdOriginal": "T0084",
+    "IdCliente": 37,
+    "IdProducto": 10,
+    "Fecha": "2025-08-03T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0085",
+    "IdCliente": 10,
+    "IdProducto": 8,
+    "Fecha": "2025-07-23T00:00:00",
+    "Comentario": "Satisface lo b\u00E1sico"
+  },
+  {
+    "IdOriginal": "T0086",
+    "IdCliente": 36,
+    "IdProducto": 10,
+    "Fecha": "2025-06-19T00:00:00",
+    "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad"
+  },
+  {
+    "IdOriginal": "T0087",
+    "IdCliente": 4,
+    "IdProducto": 14,
+    "Fecha": "2025-08-04T00:00:00",
+    "Comentario": "Entrega correcta, sin comentarios adicionales"
+  },
+  {
+    "IdOriginal": "T0088",
+    "IdCliente": 20,
+    "IdProducto": 14,
+    "Fecha": "2025-08-14T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0089",
+    "IdCliente": 10,
+    "IdProducto": 8,
+    "Fecha": "2025-07-23T00:00:00",
+    "Comentario": "Producto recibido, cumple su funci\u00F3n"
+  },
+  {
+    "IdOriginal": "T0090",
+    "IdCliente": 9,
+    "IdProducto": 14,
+    "Fecha": "2025-08-02T00:00:00",
+    "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto"
+  },
+  {
+    "IdOriginal": "T0092",
+    "IdCliente": 39,
+    "IdProducto": 2,
+    "Fecha": "2025-06-30T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  },
+  {
+    "IdOriginal": "T0093",
+    "IdCliente": 14,
+    "IdProducto": 18,
+    "Fecha": "2025-09-12T00:00:00",
+    "Comentario": "Es lo que esperaba, nada excepcional"
+  },
+  {
+    "IdOriginal": "T0097",
+    "IdCliente": 33,
+    "IdProducto": 10,
+    "Fecha": "2025-07-15T00:00:00",
+    "Comentario": "Entrega correcta, sin comentarios adicionales"
+  },
+  {
+    "IdOriginal": "T0100",
+    "IdCliente": 13,
+    "IdProducto": 14,
+    "Fecha": "2025-08-13T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0101",
+    "IdCliente": 22,
+    "IdProducto": 16,
+    "Fecha": "2025-06-23T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0102",
+    "IdCliente": 23,
+    "IdProducto": 16,
+    "Fecha": "2025-08-21T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0105",
+    "IdCliente": 33,
+    "IdProducto": 5,
+    "Fecha": "2025-06-24T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  },
+  {
+    "IdOriginal": "T0107",
+    "IdCliente": 2,
+    "IdProducto": 18,
+    "Fecha": "2025-08-08T00:00:00",
+    "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado"
+  },
+  {
+    "IdOriginal": "T0108",
+    "IdCliente": 28,
+    "IdProducto": 1,
+    "Fecha": "2025-09-01T00:00:00",
+    "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad"
+  },
+  {
+    "IdOriginal": "T0109",
+    "IdCliente": 13,
+    "IdProducto": 17,
+    "Fecha": "2025-08-10T00:00:00",
+    "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado"
+  },
+  {
+    "IdOriginal": "T0110",
+    "IdCliente": 26,
+    "IdProducto": 13,
+    "Fecha": "2025-08-16T00:00:00",
+    "Comentario": "No funciona como esperaba, decepcionado"
+  },
+  {
+    "IdOriginal": "T0112",
+    "IdCliente": 31,
+    "IdProducto": 13,
+    "Fecha": "2025-08-23T00:00:00",
+    "Comentario": "Me encanta este producto, excelente calidad"
+  },
+  {
+    "IdOriginal": "T0113",
+    "IdCliente": 28,
+    "IdProducto": 3,
+    "Fecha": "2025-09-01T00:00:00",
+    "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado"
+  },
+  {
+    "IdOriginal": "T0116",
+    "IdCliente": 21,
+    "IdProducto": 2,
+    "Fecha": "2025-08-26T00:00:00",
+    "Comentario": "Muy satisfecho con la compra, lo recomiendo"
+  },
+  {
+    "IdOriginal": "T0119",
+    "IdCliente": 23,
+    "IdProducto": 3,
+    "Fecha": "2025-09-04T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0122",
+    "IdCliente": 25,
+    "IdProducto": 12,
+    "Fecha": "2025-07-27T00:00:00",
+    "Comentario": "P\u00E9sima atenci\u00F3n al cliente"
+  },
+  {
+    "IdOriginal": "T0124",
+    "IdCliente": 25,
+    "IdProducto": 3,
+    "Fecha": "2025-07-26T00:00:00",
+    "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad"
+  },
+  {
+    "IdOriginal": "T0125",
+    "IdCliente": 6,
+    "IdProducto": 11,
+    "Fecha": "2025-07-29T00:00:00",
+    "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto"
+  },
+  {
+    "IdOriginal": "T0126",
+    "IdCliente": 6,
+    "IdProducto": 9,
+    "Fecha": "2025-07-04T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0127",
+    "IdCliente": 2,
+    "IdProducto": 17,
+    "Fecha": "2025-06-29T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0130",
+    "IdCliente": 25,
+    "IdProducto": 17,
+    "Fecha": "2025-08-10T00:00:00",
+    "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto"
+  },
+  {
+    "IdOriginal": "T0131",
+    "IdCliente": 11,
+    "IdProducto": 16,
+    "Fecha": "2025-07-14T00:00:00",
+    "Comentario": "No cumple con lo anunciado, insatisfecho"
+  },
+  {
+    "IdOriginal": "T0132",
+    "IdCliente": 16,
+    "IdProducto": 3,
+    "Fecha": "2025-06-27T00:00:00",
+    "Comentario": "Entrega correcta, sin comentarios adicionales"
+  },
+  {
+    "IdOriginal": "T0133",
+    "IdCliente": 9,
+    "IdProducto": 7,
+    "Fecha": "2025-06-26T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0135",
+    "IdCliente": 21,
+    "IdProducto": 20,
+    "Fecha": "2025-08-04T00:00:00",
+    "Comentario": "No funciona como esperaba, decepcionado"
+  },
+  {
+    "IdOriginal": "T0138",
+    "IdCliente": 37,
+    "IdProducto": 13,
+    "Fecha": "2025-06-18T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0139",
+    "IdCliente": 30,
+    "IdProducto": 18,
+    "Fecha": "2025-08-07T00:00:00",
+    "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad"
+  },
+  {
+    "IdOriginal": "T0142",
+    "IdCliente": 39,
+    "IdProducto": 13,
+    "Fecha": "2025-07-11T00:00:00",
+    "Comentario": "No cumple con lo anunciado, insatisfecho"
+  },
+  {
+    "IdOriginal": "T0143",
+    "IdCliente": 24,
+    "IdProducto": 14,
+    "Fecha": "2025-06-24T00:00:00",
+    "Comentario": "Satisface lo b\u00E1sico"
+  },
+  {
+    "IdOriginal": "T0144",
+    "IdCliente": 16,
+    "IdProducto": 3,
+    "Fecha": "2025-06-23T00:00:00",
+    "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado"
+  },
+  {
+    "IdOriginal": "T0145",
+    "IdCliente": 26,
+    "IdProducto": 20,
+    "Fecha": "2025-08-31T00:00:00",
+    "Comentario": "Es lo que esperaba, nada excepcional"
+  },
+  {
+    "IdOriginal": "T0146",
+    "IdCliente": 15,
+    "IdProducto": 1,
+    "Fecha": "2025-07-01T00:00:00",
+    "Comentario": "P\u00E9sima atenci\u00F3n al cliente"
+  },
+  {
+    "IdOriginal": "T0147",
+    "IdCliente": 24,
+    "IdProducto": 19,
+    "Fecha": "2025-07-11T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0148",
+    "IdCliente": 2,
+    "IdProducto": 5,
+    "Fecha": "2025-09-03T00:00:00",
+    "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado"
+  },
+  {
+    "IdOriginal": "T0152",
+    "IdCliente": 22,
+    "IdProducto": 4,
+    "Fecha": "2025-08-13T00:00:00",
+    "Comentario": "No funciona como esperaba, decepcionado"
+  },
+  {
+    "IdOriginal": "T0153",
+    "IdCliente": 11,
+    "IdProducto": 17,
+    "Fecha": "2025-08-15T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0156",
+    "IdCliente": 5,
+    "IdProducto": 7,
+    "Fecha": "2025-07-29T00:00:00",
+    "Comentario": "P\u00E9sima atenci\u00F3n al cliente"
+  },
+  {
+    "IdOriginal": "T0157",
+    "IdCliente": 8,
+    "IdProducto": 11,
+    "Fecha": "2025-06-24T00:00:00",
+    "Comentario": "Calidad superior, muy contento"
+  },
+  {
+    "IdOriginal": "T0158",
+    "IdCliente": 40,
+    "IdProducto": 11,
+    "Fecha": "2025-07-30T00:00:00",
+    "Comentario": "Me encanta este producto, excelente calidad"
+  },
+  {
+    "IdOriginal": "T0161",
+    "IdCliente": 10,
+    "IdProducto": 6,
+    "Fecha": "2025-08-27T00:00:00",
+    "Comentario": "No cumple con lo anunciado, insatisfecho"
+  },
+  {
+    "IdOriginal": "T0162",
+    "IdCliente": 12,
+    "IdProducto": 19,
+    "Fecha": "2025-06-23T00:00:00",
+    "Comentario": "P\u00E9sima atenci\u00F3n al cliente"
+  },
+  {
+    "IdOriginal": "T0163",
+    "IdCliente": 32,
+    "IdProducto": 6,
+    "Fecha": "2025-07-18T00:00:00",
+    "Comentario": "Muy satisfecho con la compra, lo recomiendo"
+  },
+  {
+    "IdOriginal": "T0164",
+    "IdCliente": 23,
+    "IdProducto": 20,
+    "Fecha": "2025-08-20T00:00:00",
+    "Comentario": "Entrega correcta, sin comentarios adicionales"
+  },
+  {
+    "IdOriginal": "T0166",
+    "IdCliente": 29,
+    "IdProducto": 16,
+    "Fecha": "2025-09-10T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  },
+  {
+    "IdOriginal": "T0167",
+    "IdCliente": 18,
+    "IdProducto": 8,
+    "Fecha": "2025-07-17T00:00:00",
+    "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto"
+  },
+  {
+    "IdOriginal": "T0169",
+    "IdCliente": 35,
+    "IdProducto": 19,
+    "Fecha": "2025-09-08T00:00:00",
+    "Comentario": "Es lo que esperaba, nada excepcional"
+  },
+  {
+    "IdOriginal": "T0170",
+    "IdCliente": 28,
+    "IdProducto": 15,
+    "Fecha": "2025-09-09T00:00:00",
+    "Comentario": "Muy satisfecho con la compra, lo recomiendo"
+  },
+  {
+    "IdOriginal": "T0171",
+    "IdCliente": 6,
+    "IdProducto": 15,
+    "Fecha": "2025-08-18T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  },
+  {
+    "IdOriginal": "T0174",
+    "IdCliente": 39,
+    "IdProducto": 12,
+    "Fecha": "2025-08-07T00:00:00",
+    "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado"
+  },
+  {
+    "IdOriginal": "T0175",
+    "IdCliente": 33,
+    "IdProducto": 10,
+    "Fecha": "2025-07-23T00:00:00",
+    "Comentario": "Producto recibido, cumple su funci\u00F3n"
+  },
+  {
+    "IdOriginal": "T0177",
+    "IdCliente": 21,
+    "IdProducto": 8,
+    "Fecha": "2025-08-26T00:00:00",
+    "Comentario": "Entrega correcta, sin comentarios adicionales"
+  },
+  {
+    "IdOriginal": "T0179",
+    "IdCliente": 18,
+    "IdProducto": 3,
+    "Fecha": "2025-07-13T00:00:00",
+    "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado"
+  },
+  {
+    "IdOriginal": "T0180",
+    "IdCliente": 6,
+    "IdProducto": 11,
+    "Fecha": "2025-06-20T00:00:00",
+    "Comentario": "Entrega correcta, sin comentarios adicionales"
+  },
+  {
+    "IdOriginal": "T0182",
+    "IdCliente": 21,
+    "IdProducto": 7,
+    "Fecha": "2025-07-02T00:00:00",
+    "Comentario": "Es lo que esperaba, nada excepcional"
+  },
+  {
+    "IdOriginal": "T0183",
+    "IdCliente": 32,
+    "IdProducto": 5,
+    "Fecha": "2025-09-01T00:00:00",
+    "Comentario": "Producto recibido, cumple su funci\u00F3n"
+  },
+  {
+    "IdOriginal": "T0184",
+    "IdCliente": 11,
+    "IdProducto": 15,
+    "Fecha": "2025-08-19T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  },
+  {
+    "IdOriginal": "T0186",
+    "IdCliente": 24,
+    "IdProducto": 12,
+    "Fecha": "2025-07-25T00:00:00",
+    "Comentario": "No funciona como esperaba, decepcionado"
+  },
+  {
+    "IdOriginal": "T0188",
+    "IdCliente": 31,
+    "IdProducto": 4,
+    "Fecha": "2025-07-09T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0189",
+    "IdCliente": 22,
+    "IdProducto": 15,
+    "Fecha": "2025-08-28T00:00:00",
+    "Comentario": "Entrega correcta, sin comentarios adicionales"
+  },
+  {
+    "IdOriginal": "T0190",
+    "IdCliente": 25,
+    "IdProducto": 16,
+    "Fecha": "2025-08-04T00:00:00",
+    "Comentario": "Me encanta este producto, excelente calidad"
+  },
+  {
+    "IdOriginal": "T0192",
+    "IdCliente": 37,
+    "IdProducto": 5,
+    "Fecha": "2025-07-31T00:00:00",
+    "Comentario": "Muy satisfecho con la compra, lo recomiendo"
+  },
+  {
+    "IdOriginal": "T0196",
+    "IdCliente": 6,
+    "IdProducto": 8,
+    "Fecha": "2025-06-28T00:00:00",
+    "Comentario": "Gran relaci\u00F3n calidad-precio"
+  },
+  {
+    "IdOriginal": "T0198",
+    "IdCliente": 26,
+    "IdProducto": 20,
+    "Fecha": "2025-07-12T00:00:00",
+    "Comentario": "Me encanta este producto, excelente calidad"
+  },
+  {
+    "IdOriginal": "T0199",
+    "IdCliente": 32,
+    "IdProducto": 13,
+    "Fecha": "2025-09-12T00:00:00",
+    "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido"
+  }
+]

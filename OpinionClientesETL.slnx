@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="OpinionClienteDwh.Api/OpinionClienteDwh.Api.csproj" />
+  </Folder>
+  <Folder Name="/Data/">
+    <Project Path="OpinionClienteDwh.Data/OpinionClienteDwh.Data.csproj" Id="c8b3aa9d-5692-4695-895f-5484c92844e4" />
+  </Folder>
+  <Folder Name="/Worker/">
+    <Project Path="OpinionClienteDwh.Worker/OpinionClienteDwh.Worker.csproj" Id="a9db9994-fa44-4293-809f-7c55b6f052d0" />
+  </Folder>
+</Solution>
