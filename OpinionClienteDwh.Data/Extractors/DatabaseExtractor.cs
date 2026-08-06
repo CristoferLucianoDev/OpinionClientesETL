@@ -1,7 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Logging;
-using OpinionClienteDwh.Data.Dtos;
 using OpinionClienteDwh.Data.Interfaces;
 using OpinionClienteDwh.Data.Interfaces.DaoInterfaces;
 using Polly;
@@ -9,15 +8,15 @@ using Polly.Retry;
 
 namespace OpinionClienteDwh.Data.Extractors;
 
-public sealed class DatabaseExtractor : IExtractor<WebReviewDto>
+public sealed class DatabaseExtractor<T> : IExtractor<T>
 {
-    private readonly IWebReviewDao _webReviewDao;
-    private readonly ILogger<DatabaseExtractor> _logger;
+    private readonly IDao<T> _dao;
+    private readonly ILogger<DatabaseExtractor<T>> _logger;
     private readonly AsyncRetryPolicy _retryPolicy;
 
-    public DatabaseExtractor(IWebReviewDao webReviewDao, ILogger<DatabaseExtractor> logger)
+    public DatabaseExtractor(IDao<T> dao, ILogger<DatabaseExtractor<T>> logger)
     {
-        _webReviewDao = webReviewDao;
+        _dao = dao;
         _logger = logger;
 
         _retryPolicy = Policy
@@ -29,25 +28,25 @@ public sealed class DatabaseExtractor : IExtractor<WebReviewDto>
                 {
                     _logger.LogWarning(
                         exception,
-                        "Reintento {Intento} de DatabaseExtractor tras fallo transitorio. Esperando {Espera}.",
-                        intento, espera);
+                        "Reintento {Intento} de DatabaseExtractor<{Tipo}> tras fallo transitorio. Esperando {Espera}.",
+                        intento, typeof(T).Name, espera);
                 });
     }
 
-    public async Task<IReadOnlyList<WebReviewDto>> ExtraerAsync(CancellationToken cancellationToken)
+    public async Task<IReadOnlyList<T>> ExtraerAsync(CancellationToken cancellationToken)
     {
         var cronometro = Stopwatch.StartNew();
 
         try
         {
             var resultado = await _retryPolicy.ExecuteAsync(
-                ct => _webReviewDao.GetWebReviewsAsync(ct),
+                ct => _dao.GetAsync(ct),
                 cancellationToken);
 
             cronometro.Stop();
             _logger.LogInformation(
-                "DatabaseExtractor extrajo {Cantidad} registros en {Tiempo} ms.",
-                resultado.Count, cronometro.ElapsedMilliseconds);
+                "DatabaseExtractor<{Tipo}> extrajo {Cantidad} registros en {Tiempo} ms.",
+                typeof(T).Name, resultado.Count, cronometro.ElapsedMilliseconds);
 
             return resultado;
         }
@@ -56,8 +55,8 @@ public sealed class DatabaseExtractor : IExtractor<WebReviewDto>
             cronometro.Stop();
             _logger.LogError(
                 ex,
-                "DatabaseExtractor fallo tras agotar reintentos ({Tiempo} ms transcurridos).",
-                cronometro.ElapsedMilliseconds);
+                "DatabaseExtractor<{Tipo}> fallo tras agotar reintentos ({Tiempo} ms transcurridos).",
+                typeof(T).Name, cronometro.ElapsedMilliseconds);
             throw;
         }
     }

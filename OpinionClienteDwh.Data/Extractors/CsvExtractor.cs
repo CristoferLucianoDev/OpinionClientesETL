@@ -1,56 +1,45 @@
-﻿using CsvHelper;
-using CsvHelper.Configuration.Attributes;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Logging;
-using OpinionClienteDwh.Data.Dtos;
-using OpinionClienteDwh.Data.Interfaces;
-using System.Diagnostics;
-using System.Formats.Asn1;
+﻿using System.Diagnostics;
 using System.Globalization;
+using CsvHelper;
+using CsvHelper.Configuration;
+using Microsoft.Extensions.Logging;
+using OpinionClienteDwh.Data.Interfaces;
 
 namespace OpinionClienteDwh.Data.Extractors;
 
-public sealed class CsvExtractor : IExtractor<SurveyDto>
+public sealed class CsvExtractor<T> : IExtractor<T>
 {
     private readonly string _rutaArchivo;
-    private readonly ILogger<CsvExtractor> _logger;
+    private readonly ClassMap<T> _mapa;
+    private readonly ILogger<CsvExtractor<T>> _logger;
 
-    public CsvExtractor(IConfiguration configuration, ILogger<CsvExtractor> logger)
+    public CsvExtractor(string rutaArchivo, ClassMap<T> mapa, ILogger<CsvExtractor<T>> logger)
     {
-        _rutaArchivo = configuration["RutasArchivos:Surveys"]
-            ?? throw new InvalidOperationException(
-                "No se encontro la ruta 'RutasArchivos:Surveys' en la configuracion.");
+        _rutaArchivo = rutaArchivo;
+        _mapa = mapa;
         _logger = logger;
     }
 
-    public async Task<IReadOnlyList<SurveyDto>> ExtraerAsync(CancellationToken cancellationToken)
+    public async Task<IReadOnlyList<T>> ExtraerAsync(CancellationToken cancellationToken)
     {
         var cronometro = Stopwatch.StartNew();
-        var resultado = new List<SurveyDto>();
+        var resultado = new List<T>();
 
         try
         {
             using var lector = new StreamReader(_rutaArchivo);
             using var csv = new CsvReader(lector, CultureInfo.InvariantCulture);
+            csv.Context.RegisterClassMap(_mapa);
 
-            await foreach (var registro in csv.GetRecordsAsync<SurveyCsvRecord>(cancellationToken))
+            await foreach (var registro in csv.GetRecordsAsync<T>(cancellationToken))
             {
-                resultado.Add(new SurveyDto
-                {
-                    IdOriginal = registro.IdOpinion.ToString(CultureInfo.InvariantCulture),
-                    IdCliente = registro.IdCliente,
-                    IdProducto = registro.IdProducto,
-                    Fecha = registro.Fecha,
-                    Comentario = registro.Comentario,
-                    PuntajeSatisfaccion = registro.PuntajeSatisfaccion,
-                    Clasificacion = registro.Clasificacion
-                });
+                resultado.Add(registro);
             }
 
             cronometro.Stop();
             _logger.LogInformation(
-                "CsvExtractor extrajo {Cantidad} registros de {Archivo} en {Tiempo} ms.",
-                resultado.Count, _rutaArchivo, cronometro.ElapsedMilliseconds);
+                "CsvExtractor<{Tipo}> extrajo {Cantidad} registros de {Archivo} en {Tiempo} ms.",
+                typeof(T).Name, resultado.Count, _rutaArchivo, cronometro.ElapsedMilliseconds);
 
             return resultado;
         }
@@ -59,33 +48,9 @@ public sealed class CsvExtractor : IExtractor<SurveyDto>
             cronometro.Stop();
             _logger.LogError(
                 ex,
-                "CsvExtractor fallo leyendo {Archivo} ({Tiempo} ms transcurridos).",
-                _rutaArchivo, cronometro.ElapsedMilliseconds);
+                "CsvExtractor<{Tipo}> fallo leyendo {Archivo} ({Tiempo} ms transcurridos).",
+                typeof(T).Name, _rutaArchivo, cronometro.ElapsedMilliseconds);
             throw;
         }
-    }
-
-    private sealed class SurveyCsvRecord
-    {
-        [Name("IdOpinion")]
-        public required int IdOpinion { get; init; }
-
-        [Name("IdCliente")]
-        public required int IdCliente { get; init; }
-
-        [Name("IdProducto")]
-        public required int IdProducto { get; init; }
-
-        [Name("Clasificacion")]
-        public required string Clasificacion { get; init; }
-
-        [Name("Comentario")]
-        public required string Comentario { get; init; }
-
-        [Name("Fecha")]
-        public required DateTime Fecha { get; init; }
-
-        [Name("PuntajeSatisfaccion")]
-        public required decimal PuntajeSatisfaccion { get; init; }
     }
 }

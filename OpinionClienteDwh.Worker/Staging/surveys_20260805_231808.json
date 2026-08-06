@@ -1,0 +1,4502 @@
+[
+  {
+    "IdOriginal": "1",
+    "IdCliente": 8537,
+    "IdProducto": 366,
+    "Fecha": "2025-07-15T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "2",
+    "IdCliente": 2721,
+    "IdProducto": 667,
+    "Fecha": "2024-12-07T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "3",
+    "IdCliente": 8424,
+    "IdProducto": 953,
+    "Fecha": "2025-06-20T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "4",
+    "IdCliente": 9672,
+    "IdProducto": 961,
+    "Fecha": "2025-08-17T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "5",
+    "IdCliente": 8018,
+    "IdProducto": 607,
+    "Fecha": "2024-10-22T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "6",
+    "IdCliente": 6119,
+    "IdProducto": 89,
+    "Fecha": "2025-03-06T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "7",
+    "IdCliente": 4890,
+    "IdProducto": 478,
+    "Fecha": "2025-07-19T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "8",
+    "IdCliente": 415,
+    "IdProducto": 388,
+    "Fecha": "2025-02-06T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "9",
+    "IdCliente": 6110,
+    "IdProducto": 970,
+    "Fecha": "2024-09-19T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "10",
+    "IdCliente": 8693,
+    "IdProducto": 48,
+    "Fecha": "2025-05-29T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "11",
+    "IdCliente": 9269,
+    "IdProducto": 74,
+    "Fecha": "2025-02-07T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "12",
+    "IdCliente": 3734,
+    "IdProducto": 34,
+    "Fecha": "2025-05-30T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "13",
+    "IdCliente": 3629,
+    "IdProducto": 930,
+    "Fecha": "2025-04-27T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "14",
+    "IdCliente": 1953,
+    "IdProducto": 369,
+    "Fecha": "2025-06-23T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "15",
+    "IdCliente": 253,
+    "IdProducto": 385,
+    "Fecha": "2025-04-05T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "16",
+    "IdCliente": 8697,
+    "IdProducto": 750,
+    "Fecha": "2025-04-25T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "17",
+    "IdCliente": 2756,
+    "IdProducto": 339,
+    "Fecha": "2024-12-03T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "18",
+    "IdCliente": 9132,
+    "IdProducto": 390,
+    "Fecha": "2025-01-21T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "19",
+    "IdCliente": 1370,
+    "IdProducto": 393,
+    "Fecha": "2024-12-07T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "20",
+    "IdCliente": 6506,
+    "IdProducto": 271,
+    "Fecha": "2025-01-15T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "21",
+    "IdCliente": 8571,
+    "IdProducto": 835,
+    "Fecha": "2025-03-04T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "22",
+    "IdCliente": 3635,
+    "IdProducto": 977,
+    "Fecha": "2025-04-13T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "23",
+    "IdCliente": 3407,
+    "IdProducto": 712,
+    "Fecha": "2025-01-30T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "24",
+    "IdCliente": 7342,
+    "IdProducto": 386,
+    "Fecha": "2025-07-13T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "25",
+    "IdCliente": 6272,
+    "IdProducto": 27,
+    "Fecha": "2025-07-24T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "26",
+    "IdCliente": 3318,
+    "IdProducto": 654,
+    "Fecha": "2025-08-20T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "27",
+    "IdCliente": 552,
+    "IdProducto": 383,
+    "Fecha": "2025-04-12T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "28",
+    "IdCliente": 6660,
+    "IdProducto": 592,
+    "Fecha": "2025-04-08T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "29",
+    "IdCliente": 539,
+    "IdProducto": 957,
+    "Fecha": "2025-08-06T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "30",
+    "IdCliente": 6473,
+    "IdProducto": 144,
+    "Fecha": "2025-02-12T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "31",
+    "IdCliente": 7512,
+    "IdProducto": 765,
+    "Fecha": "2024-12-26T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "32",
+    "IdCliente": 6558,
+    "IdProducto": 953,
+    "Fecha": "2024-09-14T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "33",
+    "IdCliente": 2699,
+    "IdProducto": 19,
+    "Fecha": "2024-09-18T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "34",
+    "IdCliente": 996,
+    "IdProducto": 340,
+    "Fecha": "2025-09-10T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "35",
+    "IdCliente": 5820,
+    "IdProducto": 771,
+    "Fecha": "2024-12-04T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "36",
+    "IdCliente": 8344,
+    "IdProducto": 733,
+    "Fecha": "2024-12-11T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "37",
+    "IdCliente": 943,
+    "IdProducto": 705,
+    "Fecha": "2025-07-20T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "38",
+    "IdCliente": 6554,
+    "IdProducto": 477,
+    "Fecha": "2025-08-29T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "39",
+    "IdCliente": 5662,
+    "IdProducto": 513,
+    "Fecha": "2025-04-02T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "40",
+    "IdCliente": 9665,
+    "IdProducto": 701,
+    "Fecha": "2025-07-16T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "41",
+    "IdCliente": 3803,
+    "IdProducto": 446,
+    "Fecha": "2025-01-19T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "42",
+    "IdCliente": 9881,
+    "IdProducto": 851,
+    "Fecha": "2025-06-13T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "43",
+    "IdCliente": 7334,
+    "IdProducto": 376,
+    "Fecha": "2025-01-17T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "44",
+    "IdCliente": 1287,
+    "IdProducto": 46,
+    "Fecha": "2025-01-21T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "45",
+    "IdCliente": 6817,
+    "IdProducto": 323,
+    "Fecha": "2025-01-12T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "46",
+    "IdCliente": 2399,
+    "IdProducto": 618,
+    "Fecha": "2025-05-17T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "47",
+    "IdCliente": 7073,
+    "IdProducto": 122,
+    "Fecha": "2025-03-26T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "48",
+    "IdCliente": 1781,
+    "IdProducto": 184,
+    "Fecha": "2025-08-06T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "49",
+    "IdCliente": 3209,
+    "IdProducto": 290,
+    "Fecha": "2025-08-25T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "50",
+    "IdCliente": 5704,
+    "IdProducto": 991,
+    "Fecha": "2025-09-07T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "51",
+    "IdCliente": 7496,
+    "IdProducto": 889,
+    "Fecha": "2025-04-15T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "52",
+    "IdCliente": 8078,
+    "IdProducto": 917,
+    "Fecha": "2024-10-25T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "53",
+    "IdCliente": 1574,
+    "IdProducto": 779,
+    "Fecha": "2024-09-25T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "54",
+    "IdCliente": 9647,
+    "IdProducto": 768,
+    "Fecha": "2024-11-10T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "55",
+    "IdCliente": 3032,
+    "IdProducto": 856,
+    "Fecha": "2025-01-06T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "56",
+    "IdCliente": 122,
+    "IdProducto": 378,
+    "Fecha": "2025-08-09T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "57",
+    "IdCliente": 9945,
+    "IdProducto": 207,
+    "Fecha": "2025-09-03T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "58",
+    "IdCliente": 8267,
+    "IdProducto": 917,
+    "Fecha": "2025-08-05T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "59",
+    "IdCliente": 7131,
+    "IdProducto": 149,
+    "Fecha": "2025-06-20T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "60",
+    "IdCliente": 8691,
+    "IdProducto": 962,
+    "Fecha": "2025-05-19T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "61",
+    "IdCliente": 9807,
+    "IdProducto": 632,
+    "Fecha": "2024-10-08T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "62",
+    "IdCliente": 9194,
+    "IdProducto": 909,
+    "Fecha": "2025-02-23T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "63",
+    "IdCliente": 5358,
+    "IdProducto": 79,
+    "Fecha": "2024-11-30T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "64",
+    "IdCliente": 3632,
+    "IdProducto": 82,
+    "Fecha": "2025-06-06T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "65",
+    "IdCliente": 6367,
+    "IdProducto": 635,
+    "Fecha": "2025-01-02T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "66",
+    "IdCliente": 5529,
+    "IdProducto": 889,
+    "Fecha": "2024-12-10T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "67",
+    "IdCliente": 84,
+    "IdProducto": 317,
+    "Fecha": "2025-04-23T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "68",
+    "IdCliente": 2371,
+    "IdProducto": 115,
+    "Fecha": "2025-07-02T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "69",
+    "IdCliente": 2560,
+    "IdProducto": 933,
+    "Fecha": "2025-08-08T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "70",
+    "IdCliente": 208,
+    "IdProducto": 462,
+    "Fecha": "2024-12-06T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "71",
+    "IdCliente": 7885,
+    "IdProducto": 717,
+    "Fecha": "2025-08-15T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "72",
+    "IdCliente": 7614,
+    "IdProducto": 609,
+    "Fecha": "2025-07-07T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "73",
+    "IdCliente": 6509,
+    "IdProducto": 455,
+    "Fecha": "2024-11-29T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "74",
+    "IdCliente": 1488,
+    "IdProducto": 637,
+    "Fecha": "2024-10-08T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "75",
+    "IdCliente": 8128,
+    "IdProducto": 503,
+    "Fecha": "2025-03-21T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "76",
+    "IdCliente": 2657,
+    "IdProducto": 753,
+    "Fecha": "2024-11-09T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "77",
+    "IdCliente": 8303,
+    "IdProducto": 236,
+    "Fecha": "2024-10-24T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "78",
+    "IdCliente": 8796,
+    "IdProducto": 791,
+    "Fecha": "2024-11-02T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "79",
+    "IdCliente": 8093,
+    "IdProducto": 421,
+    "Fecha": "2025-03-05T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "80",
+    "IdCliente": 5311,
+    "IdProducto": 112,
+    "Fecha": "2025-05-28T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "81",
+    "IdCliente": 4143,
+    "IdProducto": 446,
+    "Fecha": "2025-08-13T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "82",
+    "IdCliente": 8005,
+    "IdProducto": 627,
+    "Fecha": "2025-08-20T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "83",
+    "IdCliente": 705,
+    "IdProducto": 48,
+    "Fecha": "2024-09-15T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "84",
+    "IdCliente": 3792,
+    "IdProducto": 337,
+    "Fecha": "2025-01-03T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "85",
+    "IdCliente": 8455,
+    "IdProducto": 749,
+    "Fecha": "2024-10-14T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "86",
+    "IdCliente": 5177,
+    "IdProducto": 672,
+    "Fecha": "2025-01-08T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "87",
+    "IdCliente": 5361,
+    "IdProducto": 774,
+    "Fecha": "2024-11-04T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "88",
+    "IdCliente": 6865,
+    "IdProducto": 864,
+    "Fecha": "2024-12-26T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "89",
+    "IdCliente": 9351,
+    "IdProducto": 971,
+    "Fecha": "2025-04-27T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "90",
+    "IdCliente": 4621,
+    "IdProducto": 570,
+    "Fecha": "2025-08-04T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "91",
+    "IdCliente": 3552,
+    "IdProducto": 136,
+    "Fecha": "2024-11-30T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "92",
+    "IdCliente": 1315,
+    "IdProducto": 85,
+    "Fecha": "2025-07-28T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "93",
+    "IdCliente": 4734,
+    "IdProducto": 152,
+    "Fecha": "2024-11-15T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "94",
+    "IdCliente": 7080,
+    "IdProducto": 801,
+    "Fecha": "2025-06-11T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "95",
+    "IdCliente": 5688,
+    "IdProducto": 725,
+    "Fecha": "2025-04-23T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "96",
+    "IdCliente": 5127,
+    "IdProducto": 332,
+    "Fecha": "2025-03-09T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "97",
+    "IdCliente": 4002,
+    "IdProducto": 697,
+    "Fecha": "2025-02-03T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "98",
+    "IdCliente": 8606,
+    "IdProducto": 153,
+    "Fecha": "2025-03-01T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "99",
+    "IdCliente": 677,
+    "IdProducto": 285,
+    "Fecha": "2025-03-05T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "100",
+    "IdCliente": 4532,
+    "IdProducto": 970,
+    "Fecha": "2025-08-28T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "101",
+    "IdCliente": 850,
+    "IdProducto": 710,
+    "Fecha": "2024-10-22T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "102",
+    "IdCliente": 9156,
+    "IdProducto": 443,
+    "Fecha": "2025-07-21T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "103",
+    "IdCliente": 5397,
+    "IdProducto": 672,
+    "Fecha": "2024-11-23T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "104",
+    "IdCliente": 8901,
+    "IdProducto": 929,
+    "Fecha": "2024-12-15T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "105",
+    "IdCliente": 8473,
+    "IdProducto": 87,
+    "Fecha": "2025-02-13T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "106",
+    "IdCliente": 2046,
+    "IdProducto": 565,
+    "Fecha": "2025-07-17T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "107",
+    "IdCliente": 9046,
+    "IdProducto": 377,
+    "Fecha": "2025-02-02T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "108",
+    "IdCliente": 3398,
+    "IdProducto": 530,
+    "Fecha": "2024-12-02T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "109",
+    "IdCliente": 2410,
+    "IdProducto": 266,
+    "Fecha": "2025-01-30T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "110",
+    "IdCliente": 927,
+    "IdProducto": 539,
+    "Fecha": "2024-10-25T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "111",
+    "IdCliente": 4701,
+    "IdProducto": 443,
+    "Fecha": "2025-09-03T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "112",
+    "IdCliente": 274,
+    "IdProducto": 693,
+    "Fecha": "2025-04-12T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "113",
+    "IdCliente": 6821,
+    "IdProducto": 540,
+    "Fecha": "2024-09-21T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "114",
+    "IdCliente": 2309,
+    "IdProducto": 771,
+    "Fecha": "2025-09-09T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "115",
+    "IdCliente": 1558,
+    "IdProducto": 644,
+    "Fecha": "2024-10-30T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "116",
+    "IdCliente": 2057,
+    "IdProducto": 76,
+    "Fecha": "2025-08-23T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "117",
+    "IdCliente": 5784,
+    "IdProducto": 703,
+    "Fecha": "2025-04-05T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "118",
+    "IdCliente": 9843,
+    "IdProducto": 560,
+    "Fecha": "2024-12-07T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "119",
+    "IdCliente": 9485,
+    "IdProducto": 893,
+    "Fecha": "2024-11-25T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "120",
+    "IdCliente": 4194,
+    "IdProducto": 46,
+    "Fecha": "2025-02-02T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "121",
+    "IdCliente": 5543,
+    "IdProducto": 548,
+    "Fecha": "2025-03-18T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "122",
+    "IdCliente": 1108,
+    "IdProducto": 747,
+    "Fecha": "2025-07-25T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "123",
+    "IdCliente": 3355,
+    "IdProducto": 852,
+    "Fecha": "2025-03-22T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "124",
+    "IdCliente": 382,
+    "IdProducto": 131,
+    "Fecha": "2024-12-19T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "125",
+    "IdCliente": 3491,
+    "IdProducto": 875,
+    "Fecha": "2024-11-06T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "126",
+    "IdCliente": 1780,
+    "IdProducto": 909,
+    "Fecha": "2025-04-23T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "127",
+    "IdCliente": 1267,
+    "IdProducto": 425,
+    "Fecha": "2025-03-06T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "128",
+    "IdCliente": 7340,
+    "IdProducto": 940,
+    "Fecha": "2025-05-29T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "129",
+    "IdCliente": 8434,
+    "IdProducto": 704,
+    "Fecha": "2025-05-24T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "130",
+    "IdCliente": 8234,
+    "IdProducto": 980,
+    "Fecha": "2025-07-01T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "131",
+    "IdCliente": 4262,
+    "IdProducto": 655,
+    "Fecha": "2024-12-19T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "132",
+    "IdCliente": 5829,
+    "IdProducto": 364,
+    "Fecha": "2025-04-29T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "133",
+    "IdCliente": 1866,
+    "IdProducto": 649,
+    "Fecha": "2025-01-12T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "134",
+    "IdCliente": 8608,
+    "IdProducto": 572,
+    "Fecha": "2025-08-27T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "135",
+    "IdCliente": 8293,
+    "IdProducto": 197,
+    "Fecha": "2025-07-23T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "136",
+    "IdCliente": 6248,
+    "IdProducto": 70,
+    "Fecha": "2025-03-19T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "137",
+    "IdCliente": 4600,
+    "IdProducto": 869,
+    "Fecha": "2025-06-01T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "138",
+    "IdCliente": 8720,
+    "IdProducto": 157,
+    "Fecha": "2025-03-18T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "139",
+    "IdCliente": 9715,
+    "IdProducto": 889,
+    "Fecha": "2025-08-29T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "140",
+    "IdCliente": 821,
+    "IdProducto": 637,
+    "Fecha": "2025-06-05T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "141",
+    "IdCliente": 2439,
+    "IdProducto": 779,
+    "Fecha": "2024-11-14T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "142",
+    "IdCliente": 1339,
+    "IdProducto": 274,
+    "Fecha": "2025-01-03T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "143",
+    "IdCliente": 7504,
+    "IdProducto": 454,
+    "Fecha": "2025-04-04T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "144",
+    "IdCliente": 8142,
+    "IdProducto": 522,
+    "Fecha": "2025-07-18T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "145",
+    "IdCliente": 378,
+    "IdProducto": 604,
+    "Fecha": "2024-12-31T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "146",
+    "IdCliente": 4941,
+    "IdProducto": 909,
+    "Fecha": "2024-10-18T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "147",
+    "IdCliente": 8162,
+    "IdProducto": 201,
+    "Fecha": "2025-05-08T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "148",
+    "IdCliente": 8492,
+    "IdProducto": 570,
+    "Fecha": "2025-02-04T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "149",
+    "IdCliente": 1115,
+    "IdProducto": 821,
+    "Fecha": "2025-01-24T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "150",
+    "IdCliente": 7991,
+    "IdProducto": 889,
+    "Fecha": "2025-08-21T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "151",
+    "IdCliente": 6542,
+    "IdProducto": 483,
+    "Fecha": "2025-08-09T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "152",
+    "IdCliente": 2335,
+    "IdProducto": 783,
+    "Fecha": "2025-07-29T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "153",
+    "IdCliente": 947,
+    "IdProducto": 467,
+    "Fecha": "2025-04-17T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "154",
+    "IdCliente": 8582,
+    "IdProducto": 978,
+    "Fecha": "2024-10-30T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "155",
+    "IdCliente": 7282,
+    "IdProducto": 857,
+    "Fecha": "2025-09-10T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "156",
+    "IdCliente": 1896,
+    "IdProducto": 430,
+    "Fecha": "2025-02-21T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "157",
+    "IdCliente": 8328,
+    "IdProducto": 735,
+    "Fecha": "2024-12-28T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "158",
+    "IdCliente": 283,
+    "IdProducto": 87,
+    "Fecha": "2025-06-03T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "159",
+    "IdCliente": 930,
+    "IdProducto": 146,
+    "Fecha": "2025-08-10T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "160",
+    "IdCliente": 826,
+    "IdProducto": 644,
+    "Fecha": "2025-02-24T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "161",
+    "IdCliente": 6587,
+    "IdProducto": 919,
+    "Fecha": "2025-01-16T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "162",
+    "IdCliente": 804,
+    "IdProducto": 487,
+    "Fecha": "2025-07-02T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "163",
+    "IdCliente": 7129,
+    "IdProducto": 61,
+    "Fecha": "2024-10-27T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "164",
+    "IdCliente": 6238,
+    "IdProducto": 565,
+    "Fecha": "2025-04-16T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "165",
+    "IdCliente": 1527,
+    "IdProducto": 884,
+    "Fecha": "2025-02-03T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "166",
+    "IdCliente": 2313,
+    "IdProducto": 215,
+    "Fecha": "2025-03-16T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "167",
+    "IdCliente": 6680,
+    "IdProducto": 126,
+    "Fecha": "2024-10-23T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "168",
+    "IdCliente": 9909,
+    "IdProducto": 139,
+    "Fecha": "2025-02-12T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "169",
+    "IdCliente": 5304,
+    "IdProducto": 705,
+    "Fecha": "2025-05-11T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "170",
+    "IdCliente": 7079,
+    "IdProducto": 469,
+    "Fecha": "2025-09-12T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "171",
+    "IdCliente": 522,
+    "IdProducto": 993,
+    "Fecha": "2025-09-10T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "172",
+    "IdCliente": 1214,
+    "IdProducto": 538,
+    "Fecha": "2025-06-16T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "173",
+    "IdCliente": 6999,
+    "IdProducto": 486,
+    "Fecha": "2025-05-16T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "174",
+    "IdCliente": 2494,
+    "IdProducto": 10,
+    "Fecha": "2025-06-27T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "175",
+    "IdCliente": 3525,
+    "IdProducto": 703,
+    "Fecha": "2025-06-23T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "176",
+    "IdCliente": 868,
+    "IdProducto": 386,
+    "Fecha": "2025-09-12T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "177",
+    "IdCliente": 2057,
+    "IdProducto": 523,
+    "Fecha": "2025-04-28T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "178",
+    "IdCliente": 2231,
+    "IdProducto": 891,
+    "Fecha": "2024-11-09T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "179",
+    "IdCliente": 4815,
+    "IdProducto": 716,
+    "Fecha": "2025-08-26T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "180",
+    "IdCliente": 4365,
+    "IdProducto": 44,
+    "Fecha": "2024-11-25T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "181",
+    "IdCliente": 4496,
+    "IdProducto": 666,
+    "Fecha": "2025-03-19T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "182",
+    "IdCliente": 3043,
+    "IdProducto": 378,
+    "Fecha": "2025-08-13T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "183",
+    "IdCliente": 8847,
+    "IdProducto": 55,
+    "Fecha": "2025-03-28T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "184",
+    "IdCliente": 9376,
+    "IdProducto": 930,
+    "Fecha": "2024-11-09T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "185",
+    "IdCliente": 8809,
+    "IdProducto": 277,
+    "Fecha": "2024-11-12T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "186",
+    "IdCliente": 3995,
+    "IdProducto": 466,
+    "Fecha": "2025-06-17T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "187",
+    "IdCliente": 2988,
+    "IdProducto": 777,
+    "Fecha": "2025-02-09T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "188",
+    "IdCliente": 5113,
+    "IdProducto": 215,
+    "Fecha": "2025-01-24T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "189",
+    "IdCliente": 9685,
+    "IdProducto": 280,
+    "Fecha": "2024-09-30T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "190",
+    "IdCliente": 7211,
+    "IdProducto": 965,
+    "Fecha": "2024-11-22T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "191",
+    "IdCliente": 4519,
+    "IdProducto": 617,
+    "Fecha": "2025-07-08T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "192",
+    "IdCliente": 8124,
+    "IdProducto": 360,
+    "Fecha": "2024-11-13T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "193",
+    "IdCliente": 2029,
+    "IdProducto": 429,
+    "Fecha": "2024-10-12T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "194",
+    "IdCliente": 4465,
+    "IdProducto": 990,
+    "Fecha": "2025-03-12T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "195",
+    "IdCliente": 3986,
+    "IdProducto": 563,
+    "Fecha": "2025-09-09T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "196",
+    "IdCliente": 1169,
+    "IdProducto": 602,
+    "Fecha": "2025-03-09T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "197",
+    "IdCliente": 878,
+    "IdProducto": 130,
+    "Fecha": "2025-03-11T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "198",
+    "IdCliente": 3335,
+    "IdProducto": 906,
+    "Fecha": "2025-05-11T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "199",
+    "IdCliente": 2896,
+    "IdProducto": 736,
+    "Fecha": "2025-04-01T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "200",
+    "IdCliente": 6568,
+    "IdProducto": 38,
+    "Fecha": "2024-09-22T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "201",
+    "IdCliente": 7719,
+    "IdProducto": 104,
+    "Fecha": "2024-12-03T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "202",
+    "IdCliente": 9918,
+    "IdProducto": 459,
+    "Fecha": "2025-07-13T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "203",
+    "IdCliente": 205,
+    "IdProducto": 967,
+    "Fecha": "2025-06-14T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "204",
+    "IdCliente": 9617,
+    "IdProducto": 828,
+    "Fecha": "2025-05-18T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "205",
+    "IdCliente": 9251,
+    "IdProducto": 698,
+    "Fecha": "2025-05-30T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "206",
+    "IdCliente": 190,
+    "IdProducto": 148,
+    "Fecha": "2025-03-08T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "207",
+    "IdCliente": 3773,
+    "IdProducto": 408,
+    "Fecha": "2025-03-11T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "208",
+    "IdCliente": 791,
+    "IdProducto": 420,
+    "Fecha": "2025-02-10T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "209",
+    "IdCliente": 9539,
+    "IdProducto": 338,
+    "Fecha": "2025-02-05T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "210",
+    "IdCliente": 5775,
+    "IdProducto": 936,
+    "Fecha": "2024-12-27T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "211",
+    "IdCliente": 3916,
+    "IdProducto": 672,
+    "Fecha": "2025-03-09T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "212",
+    "IdCliente": 713,
+    "IdProducto": 390,
+    "Fecha": "2025-06-01T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "213",
+    "IdCliente": 8057,
+    "IdProducto": 92,
+    "Fecha": "2025-06-23T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "214",
+    "IdCliente": 7560,
+    "IdProducto": 346,
+    "Fecha": "2024-12-04T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "215",
+    "IdCliente": 9516,
+    "IdProducto": 289,
+    "Fecha": "2025-02-11T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "216",
+    "IdCliente": 7297,
+    "IdProducto": 596,
+    "Fecha": "2024-09-22T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "217",
+    "IdCliente": 4943,
+    "IdProducto": 179,
+    "Fecha": "2024-10-14T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "218",
+    "IdCliente": 6610,
+    "IdProducto": 608,
+    "Fecha": "2025-02-22T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "219",
+    "IdCliente": 5644,
+    "IdProducto": 610,
+    "Fecha": "2025-04-24T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "220",
+    "IdCliente": 3455,
+    "IdProducto": 37,
+    "Fecha": "2025-07-27T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "221",
+    "IdCliente": 353,
+    "IdProducto": 124,
+    "Fecha": "2025-01-01T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "222",
+    "IdCliente": 8237,
+    "IdProducto": 959,
+    "Fecha": "2025-04-26T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "223",
+    "IdCliente": 6003,
+    "IdProducto": 957,
+    "Fecha": "2025-07-11T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "224",
+    "IdCliente": 1751,
+    "IdProducto": 178,
+    "Fecha": "2024-11-30T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "225",
+    "IdCliente": 9563,
+    "IdProducto": 997,
+    "Fecha": "2024-10-30T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "226",
+    "IdCliente": 6342,
+    "IdProducto": 639,
+    "Fecha": "2024-11-20T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "227",
+    "IdCliente": 8241,
+    "IdProducto": 541,
+    "Fecha": "2024-09-25T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "228",
+    "IdCliente": 7725,
+    "IdProducto": 301,
+    "Fecha": "2024-10-16T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "229",
+    "IdCliente": 4623,
+    "IdProducto": 224,
+    "Fecha": "2025-04-18T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "230",
+    "IdCliente": 1044,
+    "IdProducto": 285,
+    "Fecha": "2025-02-09T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "231",
+    "IdCliente": 6845,
+    "IdProducto": 474,
+    "Fecha": "2024-12-03T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "232",
+    "IdCliente": 8266,
+    "IdProducto": 750,
+    "Fecha": "2024-11-07T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "233",
+    "IdCliente": 1677,
+    "IdProducto": 547,
+    "Fecha": "2025-05-26T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "234",
+    "IdCliente": 3394,
+    "IdProducto": 724,
+    "Fecha": "2024-10-16T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "235",
+    "IdCliente": 5975,
+    "IdProducto": 159,
+    "Fecha": "2024-09-24T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "236",
+    "IdCliente": 3054,
+    "IdProducto": 824,
+    "Fecha": "2025-07-18T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "237",
+    "IdCliente": 9957,
+    "IdProducto": 487,
+    "Fecha": "2025-05-08T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "238",
+    "IdCliente": 2898,
+    "IdProducto": 426,
+    "Fecha": "2025-01-02T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "239",
+    "IdCliente": 8280,
+    "IdProducto": 407,
+    "Fecha": "2024-12-17T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "240",
+    "IdCliente": 9018,
+    "IdProducto": 297,
+    "Fecha": "2024-11-18T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "241",
+    "IdCliente": 8962,
+    "IdProducto": 946,
+    "Fecha": "2025-01-26T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "242",
+    "IdCliente": 4348,
+    "IdProducto": 629,
+    "Fecha": "2025-08-03T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "243",
+    "IdCliente": 5667,
+    "IdProducto": 260,
+    "Fecha": "2025-06-08T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "244",
+    "IdCliente": 4864,
+    "IdProducto": 16,
+    "Fecha": "2025-08-29T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "245",
+    "IdCliente": 1276,
+    "IdProducto": 602,
+    "Fecha": "2025-05-01T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "246",
+    "IdCliente": 5468,
+    "IdProducto": 823,
+    "Fecha": "2025-09-01T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "247",
+    "IdCliente": 3652,
+    "IdProducto": 367,
+    "Fecha": "2024-12-03T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "248",
+    "IdCliente": 9828,
+    "IdProducto": 553,
+    "Fecha": "2025-02-27T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "249",
+    "IdCliente": 7602,
+    "IdProducto": 312,
+    "Fecha": "2024-12-19T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "250",
+    "IdCliente": 3806,
+    "IdProducto": 211,
+    "Fecha": "2025-08-23T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "251",
+    "IdCliente": 8038,
+    "IdProducto": 339,
+    "Fecha": "2025-01-23T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "252",
+    "IdCliente": 1474,
+    "IdProducto": 727,
+    "Fecha": "2025-07-02T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "253",
+    "IdCliente": 9142,
+    "IdProducto": 19,
+    "Fecha": "2025-04-04T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "254",
+    "IdCliente": 184,
+    "IdProducto": 480,
+    "Fecha": "2025-02-04T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "255",
+    "IdCliente": 9804,
+    "IdProducto": 538,
+    "Fecha": "2025-08-25T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "256",
+    "IdCliente": 6015,
+    "IdProducto": 526,
+    "Fecha": "2024-11-03T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "257",
+    "IdCliente": 7503,
+    "IdProducto": 88,
+    "Fecha": "2025-02-10T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "258",
+    "IdCliente": 5376,
+    "IdProducto": 332,
+    "Fecha": "2025-07-08T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "259",
+    "IdCliente": 1649,
+    "IdProducto": 20,
+    "Fecha": "2025-01-24T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "260",
+    "IdCliente": 2106,
+    "IdProducto": 484,
+    "Fecha": "2024-12-15T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "261",
+    "IdCliente": 1656,
+    "IdProducto": 330,
+    "Fecha": "2025-04-05T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "262",
+    "IdCliente": 1138,
+    "IdProducto": 40,
+    "Fecha": "2025-01-09T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "263",
+    "IdCliente": 3673,
+    "IdProducto": 413,
+    "Fecha": "2024-11-29T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "264",
+    "IdCliente": 7140,
+    "IdProducto": 539,
+    "Fecha": "2024-12-08T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "265",
+    "IdCliente": 416,
+    "IdProducto": 634,
+    "Fecha": "2025-06-11T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "266",
+    "IdCliente": 5394,
+    "IdProducto": 784,
+    "Fecha": "2024-10-28T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "267",
+    "IdCliente": 1568,
+    "IdProducto": 571,
+    "Fecha": "2025-03-05T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "268",
+    "IdCliente": 9965,
+    "IdProducto": 181,
+    "Fecha": "2024-09-18T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "269",
+    "IdCliente": 289,
+    "IdProducto": 267,
+    "Fecha": "2025-01-10T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "270",
+    "IdCliente": 8147,
+    "IdProducto": 247,
+    "Fecha": "2025-07-05T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "271",
+    "IdCliente": 7030,
+    "IdProducto": 397,
+    "Fecha": "2025-07-11T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "272",
+    "IdCliente": 2867,
+    "IdProducto": 287,
+    "Fecha": "2025-04-03T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "273",
+    "IdCliente": 4911,
+    "IdProducto": 592,
+    "Fecha": "2025-05-27T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "274",
+    "IdCliente": 2794,
+    "IdProducto": 548,
+    "Fecha": "2024-12-18T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "275",
+    "IdCliente": 4509,
+    "IdProducto": 880,
+    "Fecha": "2025-07-04T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "276",
+    "IdCliente": 4968,
+    "IdProducto": 36,
+    "Fecha": "2025-07-18T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "277",
+    "IdCliente": 2220,
+    "IdProducto": 985,
+    "Fecha": "2024-11-20T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "278",
+    "IdCliente": 3723,
+    "IdProducto": 396,
+    "Fecha": "2025-06-25T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "279",
+    "IdCliente": 6324,
+    "IdProducto": 294,
+    "Fecha": "2025-04-10T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "280",
+    "IdCliente": 6563,
+    "IdProducto": 173,
+    "Fecha": "2025-05-21T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "281",
+    "IdCliente": 1464,
+    "IdProducto": 157,
+    "Fecha": "2024-10-07T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "282",
+    "IdCliente": 6971,
+    "IdProducto": 572,
+    "Fecha": "2025-06-23T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "283",
+    "IdCliente": 8769,
+    "IdProducto": 332,
+    "Fecha": "2025-09-04T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "284",
+    "IdCliente": 157,
+    "IdProducto": 57,
+    "Fecha": "2024-11-24T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "285",
+    "IdCliente": 9634,
+    "IdProducto": 905,
+    "Fecha": "2025-02-18T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "286",
+    "IdCliente": 5679,
+    "IdProducto": 903,
+    "Fecha": "2025-06-04T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "287",
+    "IdCliente": 6022,
+    "IdProducto": 682,
+    "Fecha": "2025-08-28T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "288",
+    "IdCliente": 1778,
+    "IdProducto": 375,
+    "Fecha": "2024-10-11T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "289",
+    "IdCliente": 7507,
+    "IdProducto": 668,
+    "Fecha": "2025-02-20T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "290",
+    "IdCliente": 4899,
+    "IdProducto": 102,
+    "Fecha": "2024-10-04T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "291",
+    "IdCliente": 2527,
+    "IdProducto": 621,
+    "Fecha": "2025-03-06T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "292",
+    "IdCliente": 3232,
+    "IdProducto": 419,
+    "Fecha": "2025-03-18T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "293",
+    "IdCliente": 485,
+    "IdProducto": 940,
+    "Fecha": "2024-12-27T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "294",
+    "IdCliente": 4105,
+    "IdProducto": 576,
+    "Fecha": "2025-08-26T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "295",
+    "IdCliente": 20,
+    "IdProducto": 779,
+    "Fecha": "2025-01-25T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "296",
+    "IdCliente": 3625,
+    "IdProducto": 477,
+    "Fecha": "2025-04-16T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "297",
+    "IdCliente": 52,
+    "IdProducto": 336,
+    "Fecha": "2025-01-27T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "298",
+    "IdCliente": 8522,
+    "IdProducto": 339,
+    "Fecha": "2025-05-14T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "299",
+    "IdCliente": 6372,
+    "IdProducto": 751,
+    "Fecha": "2024-11-25T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "300",
+    "IdCliente": 2212,
+    "IdProducto": 905,
+    "Fecha": "2024-10-01T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "301",
+    "IdCliente": 3762,
+    "IdProducto": 647,
+    "Fecha": "2025-05-27T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "302",
+    "IdCliente": 9321,
+    "IdProducto": 783,
+    "Fecha": "2024-11-12T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "303",
+    "IdCliente": 5917,
+    "IdProducto": 189,
+    "Fecha": "2025-04-21T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "304",
+    "IdCliente": 1182,
+    "IdProducto": 467,
+    "Fecha": "2025-06-04T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "305",
+    "IdCliente": 8723,
+    "IdProducto": 486,
+    "Fecha": "2025-06-21T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "306",
+    "IdCliente": 2540,
+    "IdProducto": 784,
+    "Fecha": "2024-09-16T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "307",
+    "IdCliente": 9628,
+    "IdProducto": 488,
+    "Fecha": "2025-05-09T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "308",
+    "IdCliente": 2064,
+    "IdProducto": 376,
+    "Fecha": "2025-08-28T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "309",
+    "IdCliente": 9983,
+    "IdProducto": 576,
+    "Fecha": "2024-12-16T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "310",
+    "IdCliente": 2198,
+    "IdProducto": 315,
+    "Fecha": "2025-05-18T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "311",
+    "IdCliente": 2201,
+    "IdProducto": 730,
+    "Fecha": "2024-11-17T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "312",
+    "IdCliente": 5497,
+    "IdProducto": 797,
+    "Fecha": "2025-02-04T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "313",
+    "IdCliente": 8883,
+    "IdProducto": 897,
+    "Fecha": "2025-07-19T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "314",
+    "IdCliente": 1665,
+    "IdProducto": 56,
+    "Fecha": "2024-12-15T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "315",
+    "IdCliente": 1873,
+    "IdProducto": 430,
+    "Fecha": "2024-12-08T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "316",
+    "IdCliente": 5804,
+    "IdProducto": 826,
+    "Fecha": "2025-01-16T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "317",
+    "IdCliente": 9969,
+    "IdProducto": 142,
+    "Fecha": "2024-10-14T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "318",
+    "IdCliente": 8026,
+    "IdProducto": 487,
+    "Fecha": "2025-05-07T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "319",
+    "IdCliente": 4622,
+    "IdProducto": 850,
+    "Fecha": "2024-12-08T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "320",
+    "IdCliente": 8375,
+    "IdProducto": 547,
+    "Fecha": "2025-03-17T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "321",
+    "IdCliente": 5822,
+    "IdProducto": 306,
+    "Fecha": "2025-09-07T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "322",
+    "IdCliente": 9983,
+    "IdProducto": 3,
+    "Fecha": "2025-05-09T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "323",
+    "IdCliente": 6680,
+    "IdProducto": 871,
+    "Fecha": "2024-10-13T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "324",
+    "IdCliente": 9101,
+    "IdProducto": 202,
+    "Fecha": "2025-06-28T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "325",
+    "IdCliente": 6763,
+    "IdProducto": 675,
+    "Fecha": "2025-03-28T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "326",
+    "IdCliente": 9231,
+    "IdProducto": 899,
+    "Fecha": "2025-03-25T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "327",
+    "IdCliente": 1525,
+    "IdProducto": 642,
+    "Fecha": "2025-03-26T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "328",
+    "IdCliente": 5339,
+    "IdProducto": 285,
+    "Fecha": "2024-11-07T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "329",
+    "IdCliente": 4297,
+    "IdProducto": 149,
+    "Fecha": "2024-11-14T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "330",
+    "IdCliente": 6744,
+    "IdProducto": 472,
+    "Fecha": "2025-02-05T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "331",
+    "IdCliente": 4119,
+    "IdProducto": 308,
+    "Fecha": "2025-03-20T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "332",
+    "IdCliente": 2120,
+    "IdProducto": 175,
+    "Fecha": "2025-06-28T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "333",
+    "IdCliente": 3880,
+    "IdProducto": 195,
+    "Fecha": "2025-04-21T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "334",
+    "IdCliente": 9438,
+    "IdProducto": 932,
+    "Fecha": "2025-01-17T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "335",
+    "IdCliente": 7326,
+    "IdProducto": 689,
+    "Fecha": "2024-09-28T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "336",
+    "IdCliente": 6046,
+    "IdProducto": 757,
+    "Fecha": "2025-02-01T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "337",
+    "IdCliente": 8525,
+    "IdProducto": 995,
+    "Fecha": "2025-06-02T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "338",
+    "IdCliente": 9642,
+    "IdProducto": 306,
+    "Fecha": "2025-04-19T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "339",
+    "IdCliente": 8091,
+    "IdProducto": 366,
+    "Fecha": "2025-03-02T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "340",
+    "IdCliente": 1725,
+    "IdProducto": 638,
+    "Fecha": "2025-02-26T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "341",
+    "IdCliente": 8332,
+    "IdProducto": 60,
+    "Fecha": "2024-11-13T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "342",
+    "IdCliente": 2820,
+    "IdProducto": 912,
+    "Fecha": "2025-01-22T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "343",
+    "IdCliente": 7599,
+    "IdProducto": 775,
+    "Fecha": "2025-09-12T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "344",
+    "IdCliente": 8020,
+    "IdProducto": 120,
+    "Fecha": "2025-07-03T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "345",
+    "IdCliente": 9873,
+    "IdProducto": 265,
+    "Fecha": "2025-05-09T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "346",
+    "IdCliente": 4598,
+    "IdProducto": 682,
+    "Fecha": "2025-08-13T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "347",
+    "IdCliente": 1028,
+    "IdProducto": 212,
+    "Fecha": "2025-02-10T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "348",
+    "IdCliente": 5367,
+    "IdProducto": 358,
+    "Fecha": "2025-01-08T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "349",
+    "IdCliente": 3371,
+    "IdProducto": 350,
+    "Fecha": "2025-08-06T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "350",
+    "IdCliente": 1803,
+    "IdProducto": 712,
+    "Fecha": "2024-12-26T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "351",
+    "IdCliente": 155,
+    "IdProducto": 268,
+    "Fecha": "2024-09-14T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "352",
+    "IdCliente": 3850,
+    "IdProducto": 571,
+    "Fecha": "2025-06-21T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "353",
+    "IdCliente": 6808,
+    "IdProducto": 861,
+    "Fecha": "2025-04-11T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "354",
+    "IdCliente": 9769,
+    "IdProducto": 75,
+    "Fecha": "2025-07-04T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "355",
+    "IdCliente": 2448,
+    "IdProducto": 995,
+    "Fecha": "2024-12-20T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "356",
+    "IdCliente": 3909,
+    "IdProducto": 47,
+    "Fecha": "2025-04-18T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "357",
+    "IdCliente": 1695,
+    "IdProducto": 466,
+    "Fecha": "2024-09-25T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "358",
+    "IdCliente": 5005,
+    "IdProducto": 24,
+    "Fecha": "2025-01-05T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "359",
+    "IdCliente": 1204,
+    "IdProducto": 274,
+    "Fecha": "2025-01-10T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "360",
+    "IdCliente": 2670,
+    "IdProducto": 621,
+    "Fecha": "2025-01-28T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "361",
+    "IdCliente": 6744,
+    "IdProducto": 532,
+    "Fecha": "2025-07-27T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "362",
+    "IdCliente": 7338,
+    "IdProducto": 639,
+    "Fecha": "2025-04-20T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "363",
+    "IdCliente": 4923,
+    "IdProducto": 126,
+    "Fecha": "2025-02-28T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "364",
+    "IdCliente": 8070,
+    "IdProducto": 635,
+    "Fecha": "2025-02-21T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "365",
+    "IdCliente": 9338,
+    "IdProducto": 529,
+    "Fecha": "2024-10-08T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "366",
+    "IdCliente": 8373,
+    "IdProducto": 511,
+    "Fecha": "2025-07-23T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "367",
+    "IdCliente": 8810,
+    "IdProducto": 582,
+    "Fecha": "2025-05-31T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "368",
+    "IdCliente": 7159,
+    "IdProducto": 594,
+    "Fecha": "2025-01-15T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "369",
+    "IdCliente": 5612,
+    "IdProducto": 150,
+    "Fecha": "2025-03-30T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "370",
+    "IdCliente": 3142,
+    "IdProducto": 613,
+    "Fecha": "2025-07-17T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "371",
+    "IdCliente": 5033,
+    "IdProducto": 510,
+    "Fecha": "2025-07-10T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "372",
+    "IdCliente": 5139,
+    "IdProducto": 800,
+    "Fecha": "2025-01-01T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "373",
+    "IdCliente": 3968,
+    "IdProducto": 169,
+    "Fecha": "2025-06-25T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "374",
+    "IdCliente": 4662,
+    "IdProducto": 970,
+    "Fecha": "2025-05-05T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "375",
+    "IdCliente": 5305,
+    "IdProducto": 720,
+    "Fecha": "2024-10-24T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "376",
+    "IdCliente": 9894,
+    "IdProducto": 638,
+    "Fecha": "2025-05-28T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "377",
+    "IdCliente": 173,
+    "IdProducto": 757,
+    "Fecha": "2024-11-03T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "378",
+    "IdCliente": 9721,
+    "IdProducto": 876,
+    "Fecha": "2025-03-05T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "379",
+    "IdCliente": 5477,
+    "IdProducto": 39,
+    "Fecha": "2025-05-19T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "380",
+    "IdCliente": 8395,
+    "IdProducto": 50,
+    "Fecha": "2024-12-18T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "381",
+    "IdCliente": 954,
+    "IdProducto": 517,
+    "Fecha": "2025-08-19T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "382",
+    "IdCliente": 1935,
+    "IdProducto": 744,
+    "Fecha": "2025-01-08T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "383",
+    "IdCliente": 2173,
+    "IdProducto": 865,
+    "Fecha": "2025-09-02T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "384",
+    "IdCliente": 4173,
+    "IdProducto": 476,
+    "Fecha": "2024-09-26T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "385",
+    "IdCliente": 243,
+    "IdProducto": 654,
+    "Fecha": "2024-10-25T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "386",
+    "IdCliente": 5500,
+    "IdProducto": 773,
+    "Fecha": "2025-05-13T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "387",
+    "IdCliente": 1575,
+    "IdProducto": 259,
+    "Fecha": "2025-08-02T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "388",
+    "IdCliente": 9586,
+    "IdProducto": 95,
+    "Fecha": "2024-12-03T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "389",
+    "IdCliente": 3625,
+    "IdProducto": 38,
+    "Fecha": "2025-09-04T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "390",
+    "IdCliente": 3879,
+    "IdProducto": 610,
+    "Fecha": "2025-06-28T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "391",
+    "IdCliente": 988,
+    "IdProducto": 54,
+    "Fecha": "2025-01-06T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "392",
+    "IdCliente": 5882,
+    "IdProducto": 166,
+    "Fecha": "2025-01-15T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "393",
+    "IdCliente": 3613,
+    "IdProducto": 520,
+    "Fecha": "2024-10-09T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "394",
+    "IdCliente": 4422,
+    "IdProducto": 567,
+    "Fecha": "2025-04-26T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "395",
+    "IdCliente": 1812,
+    "IdProducto": 483,
+    "Fecha": "2024-10-12T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "396",
+    "IdCliente": 5135,
+    "IdProducto": 929,
+    "Fecha": "2025-08-26T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "397",
+    "IdCliente": 2083,
+    "IdProducto": 618,
+    "Fecha": "2025-06-25T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "398",
+    "IdCliente": 2908,
+    "IdProducto": 224,
+    "Fecha": "2025-05-05T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "399",
+    "IdCliente": 195,
+    "IdProducto": 444,
+    "Fecha": "2025-03-28T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "400",
+    "IdCliente": 6022,
+    "IdProducto": 836,
+    "Fecha": "2025-08-08T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "401",
+    "IdCliente": 6761,
+    "IdProducto": 319,
+    "Fecha": "2025-01-06T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "402",
+    "IdCliente": 9146,
+    "IdProducto": 336,
+    "Fecha": "2024-09-20T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "403",
+    "IdCliente": 1042,
+    "IdProducto": 323,
+    "Fecha": "2025-07-16T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "404",
+    "IdCliente": 9238,
+    "IdProducto": 453,
+    "Fecha": "2025-06-23T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "405",
+    "IdCliente": 2424,
+    "IdProducto": 215,
+    "Fecha": "2025-03-05T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "406",
+    "IdCliente": 5496,
+    "IdProducto": 789,
+    "Fecha": "2025-05-05T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "407",
+    "IdCliente": 9736,
+    "IdProducto": 307,
+    "Fecha": "2025-04-26T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "408",
+    "IdCliente": 4299,
+    "IdProducto": 601,
+    "Fecha": "2025-04-01T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "409",
+    "IdCliente": 4857,
+    "IdProducto": 985,
+    "Fecha": "2024-11-25T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "410",
+    "IdCliente": 4832,
+    "IdProducto": 698,
+    "Fecha": "2025-07-29T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "411",
+    "IdCliente": 1973,
+    "IdProducto": 95,
+    "Fecha": "2025-08-04T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "412",
+    "IdCliente": 572,
+    "IdProducto": 364,
+    "Fecha": "2025-08-28T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "413",
+    "IdCliente": 5564,
+    "IdProducto": 213,
+    "Fecha": "2024-10-21T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "414",
+    "IdCliente": 7905,
+    "IdProducto": 689,
+    "Fecha": "2025-06-19T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "415",
+    "IdCliente": 9169,
+    "IdProducto": 632,
+    "Fecha": "2025-08-15T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "416",
+    "IdCliente": 1889,
+    "IdProducto": 996,
+    "Fecha": "2024-10-21T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "417",
+    "IdCliente": 795,
+    "IdProducto": 722,
+    "Fecha": "2024-10-25T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "418",
+    "IdCliente": 2993,
+    "IdProducto": 190,
+    "Fecha": "2024-09-22T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "419",
+    "IdCliente": 4875,
+    "IdProducto": 412,
+    "Fecha": "2025-08-15T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "420",
+    "IdCliente": 3696,
+    "IdProducto": 840,
+    "Fecha": "2025-03-18T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "421",
+    "IdCliente": 4235,
+    "IdProducto": 274,
+    "Fecha": "2025-06-02T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "422",
+    "IdCliente": 1345,
+    "IdProducto": 790,
+    "Fecha": "2024-11-16T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "423",
+    "IdCliente": 8581,
+    "IdProducto": 624,
+    "Fecha": "2025-07-09T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "424",
+    "IdCliente": 2206,
+    "IdProducto": 360,
+    "Fecha": "2024-10-16T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "425",
+    "IdCliente": 3911,
+    "IdProducto": 979,
+    "Fecha": "2025-06-10T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "426",
+    "IdCliente": 5650,
+    "IdProducto": 246,
+    "Fecha": "2024-09-26T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "427",
+    "IdCliente": 4433,
+    "IdProducto": 703,
+    "Fecha": "2025-07-25T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "428",
+    "IdCliente": 5782,
+    "IdProducto": 466,
+    "Fecha": "2025-09-14T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "429",
+    "IdCliente": 3343,
+    "IdProducto": 949,
+    "Fecha": "2025-07-24T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "430",
+    "IdCliente": 5994,
+    "IdProducto": 560,
+    "Fecha": "2025-06-27T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "431",
+    "IdCliente": 4155,
+    "IdProducto": 326,
+    "Fecha": "2024-10-04T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "432",
+    "IdCliente": 9780,
+    "IdProducto": 56,
+    "Fecha": "2025-04-29T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "433",
+    "IdCliente": 5499,
+    "IdProducto": 708,
+    "Fecha": "2025-04-12T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "434",
+    "IdCliente": 120,
+    "IdProducto": 519,
+    "Fecha": "2025-03-28T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "435",
+    "IdCliente": 6982,
+    "IdProducto": 605,
+    "Fecha": "2025-08-07T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "436",
+    "IdCliente": 6273,
+    "IdProducto": 288,
+    "Fecha": "2025-01-15T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "437",
+    "IdCliente": 7972,
+    "IdProducto": 903,
+    "Fecha": "2024-10-30T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "438",
+    "IdCliente": 7823,
+    "IdProducto": 671,
+    "Fecha": "2024-12-25T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "439",
+    "IdCliente": 1638,
+    "IdProducto": 22,
+    "Fecha": "2024-09-19T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "440",
+    "IdCliente": 4715,
+    "IdProducto": 591,
+    "Fecha": "2024-10-09T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "441",
+    "IdCliente": 1001,
+    "IdProducto": 429,
+    "Fecha": "2025-05-06T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "442",
+    "IdCliente": 470,
+    "IdProducto": 29,
+    "Fecha": "2025-07-02T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "443",
+    "IdCliente": 4091,
+    "IdProducto": 96,
+    "Fecha": "2024-10-07T00:00:00",
+    "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "444",
+    "IdCliente": 2462,
+    "IdProducto": 246,
+    "Fecha": "2025-01-06T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "445",
+    "IdCliente": 5433,
+    "IdProducto": 630,
+    "Fecha": "2024-12-16T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "446",
+    "IdCliente": 5698,
+    "IdProducto": 752,
+    "Fecha": "2024-11-18T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "447",
+    "IdCliente": 725,
+    "IdProducto": 332,
+    "Fecha": "2024-09-27T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "448",
+    "IdCliente": 6326,
+    "IdProducto": 714,
+    "Fecha": "2025-06-25T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "449",
+    "IdCliente": 8007,
+    "IdProducto": 481,
+    "Fecha": "2024-11-04T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "450",
+    "IdCliente": 5843,
+    "IdProducto": 954,
+    "Fecha": "2025-09-08T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "451",
+    "IdCliente": 679,
+    "IdProducto": 505,
+    "Fecha": "2024-09-26T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "452",
+    "IdCliente": 7935,
+    "IdProducto": 160,
+    "Fecha": "2025-01-19T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "453",
+    "IdCliente": 9714,
+    "IdProducto": 111,
+    "Fecha": "2024-09-19T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "454",
+    "IdCliente": 4806,
+    "IdProducto": 374,
+    "Fecha": "2024-10-04T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "455",
+    "IdCliente": 101,
+    "IdProducto": 864,
+    "Fecha": "2024-10-13T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "456",
+    "IdCliente": 8025,
+    "IdProducto": 209,
+    "Fecha": "2025-02-13T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "457",
+    "IdCliente": 9594,
+    "IdProducto": 225,
+    "Fecha": "2025-08-21T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "458",
+    "IdCliente": 9557,
+    "IdProducto": 482,
+    "Fecha": "2025-07-13T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "459",
+    "IdCliente": 5931,
+    "IdProducto": 795,
+    "Fecha": "2025-01-22T00:00:00",
+    "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "460",
+    "IdCliente": 8303,
+    "IdProducto": 353,
+    "Fecha": "2025-05-04T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "461",
+    "IdCliente": 1690,
+    "IdProducto": 330,
+    "Fecha": "2025-04-27T00:00:00",
+    "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "462",
+    "IdCliente": 1272,
+    "IdProducto": 302,
+    "Fecha": "2025-05-09T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "463",
+    "IdCliente": 6996,
+    "IdProducto": 229,
+    "Fecha": "2024-10-09T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "464",
+    "IdCliente": 4664,
+    "IdProducto": 13,
+    "Fecha": "2025-04-11T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "465",
+    "IdCliente": 6838,
+    "IdProducto": 818,
+    "Fecha": "2024-10-07T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "466",
+    "IdCliente": 9041,
+    "IdProducto": 318,
+    "Fecha": "2025-09-07T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "467",
+    "IdCliente": 8552,
+    "IdProducto": 400,
+    "Fecha": "2024-09-24T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "468",
+    "IdCliente": 8023,
+    "IdProducto": 73,
+    "Fecha": "2025-08-08T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "469",
+    "IdCliente": 2686,
+    "IdProducto": 240,
+    "Fecha": "2025-06-11T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "470",
+    "IdCliente": 4841,
+    "IdProducto": 532,
+    "Fecha": "2025-08-07T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "471",
+    "IdCliente": 4129,
+    "IdProducto": 715,
+    "Fecha": "2024-11-01T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "472",
+    "IdCliente": 3243,
+    "IdProducto": 75,
+    "Fecha": "2025-04-08T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "473",
+    "IdCliente": 9872,
+    "IdProducto": 704,
+    "Fecha": "2024-09-18T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "474",
+    "IdCliente": 2634,
+    "IdProducto": 659,
+    "Fecha": "2024-12-24T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "475",
+    "IdCliente": 4755,
+    "IdProducto": 340,
+    "Fecha": "2025-03-03T00:00:00",
+    "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "476",
+    "IdCliente": 6382,
+    "IdProducto": 864,
+    "Fecha": "2025-03-22T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 5,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "477",
+    "IdCliente": 5665,
+    "IdProducto": 668,
+    "Fecha": "2025-06-06T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "478",
+    "IdCliente": 2589,
+    "IdProducto": 255,
+    "Fecha": "2025-04-03T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "479",
+    "IdCliente": 581,
+    "IdProducto": 507,
+    "Fecha": "2025-04-11T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "480",
+    "IdCliente": 4775,
+    "IdProducto": 970,
+    "Fecha": "2025-02-11T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "481",
+    "IdCliente": 6287,
+    "IdProducto": 586,
+    "Fecha": "2024-11-23T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "482",
+    "IdCliente": 3485,
+    "IdProducto": 474,
+    "Fecha": "2025-01-22T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "483",
+    "IdCliente": 6852,
+    "IdProducto": 287,
+    "Fecha": "2025-01-02T00:00:00",
+    "Comentario": "Ni malo ni excelente, simplemente regular.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "484",
+    "IdCliente": 3626,
+    "IdProducto": 80,
+    "Fecha": "2025-01-24T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "485",
+    "IdCliente": 5102,
+    "IdProducto": 67,
+    "Fecha": "2025-05-06T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "486",
+    "IdCliente": 1585,
+    "IdProducto": 584,
+    "Fecha": "2024-12-26T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "487",
+    "IdCliente": 3087,
+    "IdProducto": 969,
+    "Fecha": "2025-06-27T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "488",
+    "IdCliente": 6971,
+    "IdProducto": 659,
+    "Fecha": "2025-07-24T00:00:00",
+    "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "489",
+    "IdCliente": 9147,
+    "IdProducto": 858,
+    "Fecha": "2025-08-07T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "490",
+    "IdCliente": 3187,
+    "IdProducto": 271,
+    "Fecha": "2025-04-26T00:00:00",
+    "Comentario": "No era lo que esperaba, muy decepcionado.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "491",
+    "IdCliente": 4808,
+    "IdProducto": 844,
+    "Fecha": "2025-03-24T00:00:00",
+    "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  },
+  {
+    "IdOriginal": "492",
+    "IdCliente": 1707,
+    "IdProducto": 637,
+    "Fecha": "2024-09-17T00:00:00",
+    "Comentario": "Me encanta, es justo lo que necesitaba.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "493",
+    "IdCliente": 23,
+    "IdProducto": 989,
+    "Fecha": "2024-12-27T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "494",
+    "IdCliente": 1829,
+    "IdProducto": 702,
+    "Fecha": "2025-03-29T00:00:00",
+    "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "495",
+    "IdCliente": 8255,
+    "IdProducto": 550,
+    "Fecha": "2025-01-12T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "496",
+    "IdCliente": 2257,
+    "IdProducto": 480,
+    "Fecha": "2025-03-26T00:00:00",
+    "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "497",
+    "IdCliente": 2487,
+    "IdProducto": 609,
+    "Fecha": "2025-04-05T00:00:00",
+    "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
+    "PuntajeSatisfaccion": 2,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "498",
+    "IdCliente": 6079,
+    "IdProducto": 90,
+    "Fecha": "2025-01-28T00:00:00",
+    "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+    "PuntajeSatisfaccion": 4,
+    "Clasificacion": "Positiva"
+  },
+  {
+    "IdOriginal": "499",
+    "IdCliente": 9732,
+    "IdProducto": 140,
+    "Fecha": "2025-06-13T00:00:00",
+    "Comentario": "Mala calidad, no lo recomiendo para nada.",
+    "PuntajeSatisfaccion": 1,
+    "Clasificacion": "Negativa"
+  },
+  {
+    "IdOriginal": "500",
+    "IdCliente": 9572,
+    "IdProducto": 96,
+    "Fecha": "2025-03-01T00:00:00",
+    "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
+    "PuntajeSatisfaccion": 3,
+    "Clasificacion": "Neutra"
+  }
+]

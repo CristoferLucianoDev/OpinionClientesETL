@@ -1,0 +1,1602 @@
+[
+	{
+		"IdOriginal": "W0001",
+		"IdCliente": 7,
+		"IdProducto": 16,
+		"Fecha": "2024-10-23T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0002",
+		"IdCliente": 28,
+		"IdProducto": 5,
+		"Fecha": "2024-10-15T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0003",
+		"IdCliente": 35,
+		"IdProducto": 20,
+		"Fecha": "2025-02-02T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0004",
+		"IdCliente": 21,
+		"IdProducto": 9,
+		"Fecha": "2025-04-24T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0005",
+		"IdCliente": 30,
+		"IdProducto": 8,
+		"Fecha": "2025-03-25T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0006",
+		"IdCliente": 21,
+		"IdProducto": 16,
+		"Fecha": "2025-03-16T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0007",
+		"IdCliente": 18,
+		"IdProducto": 11,
+		"Fecha": "2024-12-03T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0008",
+		"IdCliente": 13,
+		"IdProducto": 17,
+		"Fecha": "2025-01-06T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0009",
+		"IdCliente": 31,
+		"IdProducto": 8,
+		"Fecha": "2025-01-27T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0010",
+		"IdCliente": 19,
+		"IdProducto": 3,
+		"Fecha": "2025-04-10T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0011",
+		"IdCliente": 31,
+		"IdProducto": 12,
+		"Fecha": "2025-02-08T00:00:00",
+		"Comentario": "Envío tardío y producto dañado. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0012",
+		"IdCliente": 23,
+		"IdProducto": 11,
+		"Fecha": "2025-04-10T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0013",
+		"IdCliente": 8,
+		"IdProducto": 8,
+		"Fecha": "2025-07-14T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0014",
+		"IdCliente": 13,
+		"IdProducto": 6,
+		"Fecha": "2025-04-25T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0015",
+		"IdCliente": 39,
+		"IdProducto": 17,
+		"Fecha": "2025-06-06T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0016",
+		"IdCliente": 24,
+		"IdProducto": 8,
+		"Fecha": "2024-09-16T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0017",
+		"IdCliente": 18,
+		"IdProducto": 5,
+		"Fecha": "2024-12-04T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0018",
+		"IdCliente": 32,
+		"IdProducto": 5,
+		"Fecha": "2024-11-24T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0019",
+		"IdCliente": 31,
+		"IdProducto": 16,
+		"Fecha": "2025-08-18T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0020",
+		"IdCliente": 8,
+		"IdProducto": 16,
+		"Fecha": "2025-01-05T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0021",
+		"IdCliente": 4,
+		"IdProducto": 19,
+		"Fecha": "2025-04-11T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0022",
+		"IdCliente": 8,
+		"IdProducto": 8,
+		"Fecha": "2024-11-07T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0023",
+		"IdCliente": 15,
+		"IdProducto": 20,
+		"Fecha": "2025-01-26T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0024",
+		"IdCliente": 38,
+		"IdProducto": 10,
+		"Fecha": "2024-11-26T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0025",
+		"IdCliente": 40,
+		"IdProducto": 2,
+		"Fecha": "2025-05-30T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0026",
+		"IdCliente": 6,
+		"IdProducto": 9,
+		"Fecha": "2024-12-05T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0027",
+		"IdCliente": 1,
+		"IdProducto": 6,
+		"Fecha": "2025-01-16T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0028",
+		"IdCliente": 15,
+		"IdProducto": 2,
+		"Fecha": "2024-09-19T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0029",
+		"IdCliente": 15,
+		"IdProducto": 3,
+		"Fecha": "2024-10-10T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0030",
+		"IdCliente": 8,
+		"IdProducto": 14,
+		"Fecha": "2025-04-30T00:00:00",
+		"Comentario": "No funciona como esperaba, decepcionado. No volvería a comprar.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0031",
+		"IdCliente": 4,
+		"IdProducto": 3,
+		"Fecha": "2024-11-13T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0032",
+		"IdCliente": 29,
+		"IdProducto": 10,
+		"Fecha": "2024-09-20T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0033",
+		"IdCliente": 33,
+		"IdProducto": 9,
+		"Fecha": "2025-08-03T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0034",
+		"IdCliente": 28,
+		"IdProducto": 2,
+		"Fecha": "2025-05-08T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0035",
+		"IdCliente": 15,
+		"IdProducto": 3,
+		"Fecha": "2024-11-17T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0036",
+		"IdCliente": 37,
+		"IdProducto": 9,
+		"Fecha": "2025-01-16T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0037",
+		"IdCliente": 18,
+		"IdProducto": 15,
+		"Fecha": "2025-02-02T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0038",
+		"IdCliente": 31,
+		"IdProducto": 3,
+		"Fecha": "2025-04-02T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0039",
+		"IdCliente": 22,
+		"IdProducto": 6,
+		"Fecha": "2025-04-19T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0040",
+		"IdCliente": 3,
+		"IdProducto": 18,
+		"Fecha": "2025-05-07T00:00:00",
+		"Comentario": "Envío tardío y producto dañado. No volvería a comprar.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0041",
+		"IdCliente": 26,
+		"IdProducto": 4,
+		"Fecha": "2024-10-12T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0042",
+		"IdCliente": 27,
+		"IdProducto": 15,
+		"Fecha": "2025-03-12T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0043",
+		"IdCliente": 29,
+		"IdProducto": 16,
+		"Fecha": "2025-04-30T00:00:00",
+		"Comentario": "Información suficiente, sin mayor novedad. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0044",
+		"IdCliente": 19,
+		"IdProducto": 5,
+		"Fecha": "2025-07-13T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0045",
+		"IdCliente": 16,
+		"IdProducto": 20,
+		"Fecha": "2024-12-05T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0046",
+		"IdCliente": 27,
+		"IdProducto": 18,
+		"Fecha": "2025-01-20T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0047",
+		"IdCliente": 32,
+		"IdProducto": 5,
+		"Fecha": "2024-12-27T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0048",
+		"IdCliente": 31,
+		"IdProducto": 14,
+		"Fecha": "2025-01-23T00:00:00",
+		"Comentario": "Información suficiente, sin mayor novedad. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0049",
+		"IdCliente": 25,
+		"IdProducto": 5,
+		"Fecha": "2024-12-27T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0050",
+		"IdCliente": 18,
+		"IdProducto": 3,
+		"Fecha": "2025-03-23T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0051",
+		"IdCliente": 1,
+		"IdProducto": 9,
+		"Fecha": "2024-11-17T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0052",
+		"IdCliente": 10,
+		"IdProducto": 16,
+		"Fecha": "2025-03-21T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0053",
+		"IdCliente": 35,
+		"IdProducto": 18,
+		"Fecha": "2025-06-09T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0054",
+		"IdCliente": 25,
+		"IdProducto": 19,
+		"Fecha": "2025-08-22T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0055",
+		"IdCliente": 25,
+		"IdProducto": 16,
+		"Fecha": "2025-01-03T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0056",
+		"IdCliente": 33,
+		"IdProducto": 5,
+		"Fecha": "2025-07-24T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0057",
+		"IdCliente": 34,
+		"IdProducto": 4,
+		"Fecha": "2025-07-02T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0058",
+		"IdCliente": 5,
+		"IdProducto": 5,
+		"Fecha": "2025-03-24T00:00:00",
+		"Comentario": "Envío tardío y producto dañado. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0059",
+		"IdCliente": 6,
+		"IdProducto": 13,
+		"Fecha": "2025-03-03T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0060",
+		"IdCliente": 35,
+		"IdProducto": 16,
+		"Fecha": "2025-05-16T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0061",
+		"IdCliente": 6,
+		"IdProducto": 8,
+		"Fecha": "2024-10-24T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0062",
+		"IdCliente": 11,
+		"IdProducto": 15,
+		"Fecha": "2025-08-21T00:00:00",
+		"Comentario": "Muy mala calidad, se rompió rápido. No volvería a comprar.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0063",
+		"IdCliente": 19,
+		"IdProducto": 2,
+		"Fecha": "2025-07-01T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0064",
+		"IdCliente": 27,
+		"IdProducto": 17,
+		"Fecha": "2025-06-18T00:00:00",
+		"Comentario": "No funciona como esperaba, decepcionado. No volvería a comprar.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0065",
+		"IdCliente": 40,
+		"IdProducto": 3,
+		"Fecha": "2024-09-29T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0066",
+		"IdCliente": 38,
+		"IdProducto": 16,
+		"Fecha": "2024-10-22T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0067",
+		"IdCliente": 17,
+		"IdProducto": 15,
+		"Fecha": "2025-04-19T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0068",
+		"IdCliente": 5,
+		"IdProducto": 6,
+		"Fecha": "2024-11-17T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0069",
+		"IdCliente": 17,
+		"IdProducto": 14,
+		"Fecha": "2025-06-04T00:00:00",
+		"Comentario": "Envío tardío y producto dañado. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0070",
+		"IdCliente": 7,
+		"IdProducto": 16,
+		"Fecha": "2025-03-14T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0071",
+		"IdCliente": 19,
+		"IdProducto": 10,
+		"Fecha": "2025-04-26T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0072",
+		"IdCliente": 4,
+		"IdProducto": 19,
+		"Fecha": "2025-04-20T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0073",
+		"IdCliente": 23,
+		"IdProducto": 20,
+		"Fecha": "2024-10-31T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0074",
+		"IdCliente": 7,
+		"IdProducto": 5,
+		"Fecha": "2025-04-08T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0075",
+		"IdCliente": 38,
+		"IdProducto": 2,
+		"Fecha": "2025-07-29T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0076",
+		"IdCliente": 27,
+		"IdProducto": 11,
+		"Fecha": "2024-12-11T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0077",
+		"IdCliente": 33,
+		"IdProducto": 17,
+		"Fecha": "2025-05-05T00:00:00",
+		"Comentario": "Información suficiente, sin mayor novedad. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0078",
+		"IdCliente": 22,
+		"IdProducto": 10,
+		"Fecha": "2025-08-06T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0079",
+		"IdCliente": 26,
+		"IdProducto": 8,
+		"Fecha": "2025-03-10T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0080",
+		"IdCliente": 1,
+		"IdProducto": 13,
+		"Fecha": "2025-01-24T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0081",
+		"IdCliente": 38,
+		"IdProducto": 9,
+		"Fecha": "2025-07-20T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0082",
+		"IdCliente": 2,
+		"IdProducto": 16,
+		"Fecha": "2025-03-30T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0083",
+		"IdCliente": 5,
+		"IdProducto": 8,
+		"Fecha": "2024-09-20T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0084",
+		"IdCliente": 8,
+		"IdProducto": 14,
+		"Fecha": "2025-04-11T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0085",
+		"IdCliente": 7,
+		"IdProducto": 4,
+		"Fecha": "2025-07-06T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0086",
+		"IdCliente": 24,
+		"IdProducto": 15,
+		"Fecha": "2025-02-11T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0087",
+		"IdCliente": 27,
+		"IdProducto": 5,
+		"Fecha": "2024-11-02T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0088",
+		"IdCliente": 3,
+		"IdProducto": 9,
+		"Fecha": "2025-01-29T00:00:00",
+		"Comentario": "No funciona como esperaba, decepcionado. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0089",
+		"IdCliente": 24,
+		"IdProducto": 8,
+		"Fecha": "2024-12-09T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0090",
+		"IdCliente": 26,
+		"IdProducto": 2,
+		"Fecha": "2025-01-24T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0091",
+		"IdCliente": 39,
+		"IdProducto": 7,
+		"Fecha": "2025-03-27T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0092",
+		"IdCliente": 37,
+		"IdProducto": 5,
+		"Fecha": "2025-05-30T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0093",
+		"IdCliente": 15,
+		"IdProducto": 7,
+		"Fecha": "2024-11-12T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0094",
+		"IdCliente": 10,
+		"IdProducto": 9,
+		"Fecha": "2025-05-08T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0095",
+		"IdCliente": 2,
+		"IdProducto": 4,
+		"Fecha": "2025-05-15T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0096",
+		"IdCliente": 2,
+		"IdProducto": 11,
+		"Fecha": "2025-07-11T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0097",
+		"IdCliente": 8,
+		"IdProducto": 17,
+		"Fecha": "2025-01-27T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0098",
+		"IdCliente": 38,
+		"IdProducto": 17,
+		"Fecha": "2025-05-23T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0099",
+		"IdCliente": 34,
+		"IdProducto": 2,
+		"Fecha": "2025-08-13T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0100",
+		"IdCliente": 28,
+		"IdProducto": 13,
+		"Fecha": "2024-09-14T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0101",
+		"IdCliente": 6,
+		"IdProducto": 3,
+		"Fecha": "2025-08-11T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0102",
+		"IdCliente": 40,
+		"IdProducto": 9,
+		"Fecha": "2024-09-14T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0103",
+		"IdCliente": 39,
+		"IdProducto": 13,
+		"Fecha": "2024-12-29T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0104",
+		"IdCliente": 7,
+		"IdProducto": 14,
+		"Fecha": "2024-10-13T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0105",
+		"IdCliente": 28,
+		"IdProducto": 7,
+		"Fecha": "2025-02-14T00:00:00",
+		"Comentario": "No funciona como esperaba, decepcionado. No volvería a comprar.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0106",
+		"IdCliente": 26,
+		"IdProducto": 15,
+		"Fecha": "2025-04-06T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0107",
+		"IdCliente": 17,
+		"IdProducto": 11,
+		"Fecha": "2024-09-27T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0108",
+		"IdCliente": 6,
+		"IdProducto": 3,
+		"Fecha": "2025-02-04T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0109",
+		"IdCliente": 9,
+		"IdProducto": 12,
+		"Fecha": "2024-11-30T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0110",
+		"IdCliente": 8,
+		"IdProducto": 11,
+		"Fecha": "2025-08-18T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0111",
+		"IdCliente": 20,
+		"IdProducto": 20,
+		"Fecha": "2024-12-28T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0112",
+		"IdCliente": 31,
+		"IdProducto": 5,
+		"Fecha": "2025-03-18T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0113",
+		"IdCliente": 8,
+		"IdProducto": 12,
+		"Fecha": "2025-05-21T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0114",
+		"IdCliente": 40,
+		"IdProducto": 18,
+		"Fecha": "2025-08-31T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0115",
+		"IdCliente": 2,
+		"IdProducto": 9,
+		"Fecha": "2025-03-24T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0116",
+		"IdCliente": 12,
+		"IdProducto": 1,
+		"Fecha": "2024-10-12T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0117",
+		"IdCliente": 10,
+		"IdProducto": 3,
+		"Fecha": "2025-07-29T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0118",
+		"IdCliente": 25,
+		"IdProducto": 7,
+		"Fecha": "2025-06-25T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0119",
+		"IdCliente": 21,
+		"IdProducto": 10,
+		"Fecha": "2024-11-12T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0120",
+		"IdCliente": 10,
+		"IdProducto": 2,
+		"Fecha": "2025-08-19T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0121",
+		"IdCliente": 29,
+		"IdProducto": 9,
+		"Fecha": "2024-11-07T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0122",
+		"IdCliente": 18,
+		"IdProducto": 14,
+		"Fecha": "2025-07-17T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0123",
+		"IdCliente": 8,
+		"IdProducto": 14,
+		"Fecha": "2025-01-07T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0124",
+		"IdCliente": 3,
+		"IdProducto": 10,
+		"Fecha": "2025-08-16T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0125",
+		"IdCliente": 20,
+		"IdProducto": 7,
+		"Fecha": "2025-05-06T00:00:00",
+		"Comentario": "Información suficiente, sin mayor novedad. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0126",
+		"IdCliente": 8,
+		"IdProducto": 11,
+		"Fecha": "2025-06-16T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0127",
+		"IdCliente": 35,
+		"IdProducto": 13,
+		"Fecha": "2024-12-01T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0128",
+		"IdCliente": 26,
+		"IdProducto": 3,
+		"Fecha": "2025-02-02T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0129",
+		"IdCliente": 5,
+		"IdProducto": 15,
+		"Fecha": "2025-02-06T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0130",
+		"IdCliente": 27,
+		"IdProducto": 13,
+		"Fecha": "2025-09-03T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0131",
+		"IdCliente": 40,
+		"IdProducto": 6,
+		"Fecha": "2025-07-30T00:00:00",
+		"Comentario": "Envío tardío y producto dañado. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0132",
+		"IdCliente": 16,
+		"IdProducto": 4,
+		"Fecha": "2024-12-19T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0133",
+		"IdCliente": 20,
+		"IdProducto": 13,
+		"Fecha": "2025-03-27T00:00:00",
+		"Comentario": "Información suficiente, sin mayor novedad. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0134",
+		"IdCliente": 33,
+		"IdProducto": 3,
+		"Fecha": "2024-12-26T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0135",
+		"IdCliente": 23,
+		"IdProducto": 12,
+		"Fecha": "2025-05-16T00:00:00",
+		"Comentario": "Información suficiente, sin mayor novedad. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0136",
+		"IdCliente": 17,
+		"IdProducto": 5,
+		"Fecha": "2025-06-27T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0137",
+		"IdCliente": 32,
+		"IdProducto": 6,
+		"Fecha": "2024-11-21T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0138",
+		"IdCliente": 40,
+		"IdProducto": 19,
+		"Fecha": "2025-06-28T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0139",
+		"IdCliente": 31,
+		"IdProducto": 3,
+		"Fecha": "2025-04-26T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0140",
+		"IdCliente": 23,
+		"IdProducto": 2,
+		"Fecha": "2025-01-20T00:00:00",
+		"Comentario": "Envío tardío y producto dañado. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0141",
+		"IdCliente": 4,
+		"IdProducto": 2,
+		"Fecha": "2025-08-05T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0142",
+		"IdCliente": 39,
+		"IdProducto": 20,
+		"Fecha": "2024-11-20T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0143",
+		"IdCliente": 29,
+		"IdProducto": 2,
+		"Fecha": "2024-10-15T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0144",
+		"IdCliente": 39,
+		"IdProducto": 11,
+		"Fecha": "2025-08-13T00:00:00",
+		"Comentario": "No funciona como esperaba, decepcionado. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0145",
+		"IdCliente": 22,
+		"IdProducto": 4,
+		"Fecha": "2024-12-29T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0146",
+		"IdCliente": 16,
+		"IdProducto": 2,
+		"Fecha": "2024-12-19T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0147",
+		"IdCliente": 11,
+		"IdProducto": 20,
+		"Fecha": "2025-02-27T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0148",
+		"IdCliente": 39,
+		"IdProducto": 11,
+		"Fecha": "2025-08-11T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0149",
+		"IdCliente": 36,
+		"IdProducto": 4,
+		"Fecha": "2025-05-07T00:00:00",
+		"Comentario": "Envío tardío y producto dañado. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0150",
+		"IdCliente": 22,
+		"IdProducto": 5,
+		"Fecha": "2025-03-18T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0151",
+		"IdCliente": 9,
+		"IdProducto": 13,
+		"Fecha": "2025-04-08T00:00:00",
+		"Comentario": "Muy mala calidad, se rompió rápido. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0152",
+		"IdCliente": 22,
+		"IdProducto": 13,
+		"Fecha": "2025-07-28T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0153",
+		"IdCliente": 24,
+		"IdProducto": 17,
+		"Fecha": "2025-06-13T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0154",
+		"IdCliente": 32,
+		"IdProducto": 11,
+		"Fecha": "2025-06-26T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0155",
+		"IdCliente": 7,
+		"IdProducto": 10,
+		"Fecha": "2024-12-18T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0156",
+		"IdCliente": 40,
+		"IdProducto": 11,
+		"Fecha": "2025-06-27T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0157",
+		"IdCliente": 40,
+		"IdProducto": 6,
+		"Fecha": "2025-02-01T00:00:00",
+		"Comentario": "Información suficiente, sin mayor novedad. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0158",
+		"IdCliente": 24,
+		"IdProducto": 14,
+		"Fecha": "2025-01-29T00:00:00",
+		"Comentario": "No funciona como esperaba, decepcionado. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0159",
+		"IdCliente": 29,
+		"IdProducto": 10,
+		"Fecha": "2025-04-08T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0160",
+		"IdCliente": 24,
+		"IdProducto": 7,
+		"Fecha": "2025-01-31T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0161",
+		"IdCliente": 25,
+		"IdProducto": 10,
+		"Fecha": "2025-06-23T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0162",
+		"IdCliente": 9,
+		"IdProducto": 20,
+		"Fecha": "2024-10-20T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0163",
+		"IdCliente": 36,
+		"IdProducto": 12,
+		"Fecha": "2025-07-12T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0164",
+		"IdCliente": 11,
+		"IdProducto": 3,
+		"Fecha": "2025-06-30T00:00:00",
+		"Comentario": "Gran relación calidad-precio. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0165",
+		"IdCliente": 15,
+		"IdProducto": 3,
+		"Fecha": "2025-08-31T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0166",
+		"IdCliente": 26,
+		"IdProducto": 2,
+		"Fecha": "2025-02-28T00:00:00",
+		"Comentario": "No funciona como esperaba, decepcionado. No volvería a comprar.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0167",
+		"IdCliente": 15,
+		"IdProducto": 12,
+		"Fecha": "2024-09-13T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0168",
+		"IdCliente": 9,
+		"IdProducto": 5,
+		"Fecha": "2024-09-22T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0169",
+		"IdCliente": 29,
+		"IdProducto": 16,
+		"Fecha": "2025-09-04T00:00:00",
+		"Comentario": "Muy mala calidad, se rompió rápido. No volvería a comprar.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0170",
+		"IdCliente": 10,
+		"IdProducto": 7,
+		"Fecha": "2024-12-17T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0171",
+		"IdCliente": 19,
+		"IdProducto": 4,
+		"Fecha": "2025-08-20T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0172",
+		"IdCliente": 40,
+		"IdProducto": 14,
+		"Fecha": "2025-01-01T00:00:00",
+		"Comentario": "Muy mala calidad, se rompió rápido. No volvería a comprar.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0173",
+		"IdCliente": 2,
+		"IdProducto": 18,
+		"Fecha": "2025-05-13T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0174",
+		"IdCliente": 28,
+		"IdProducto": 10,
+		"Fecha": "2025-05-13T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 5
+	},
+	{
+		"IdOriginal": "W0175",
+		"IdCliente": 12,
+		"IdProducto": 14,
+		"Fecha": "2024-12-19T00:00:00",
+		"Comentario": "Muy mala calidad, se rompió rápido. No volvería a comprar.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0176",
+		"IdCliente": 34,
+		"IdProducto": 3,
+		"Fecha": "2024-12-04T00:00:00",
+		"Comentario": "Pésima atención al cliente. No volvería a comprar.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0177",
+		"IdCliente": 31,
+		"IdProducto": 13,
+		"Fecha": "2025-03-06T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0178",
+		"IdCliente": 23,
+		"IdProducto": 1,
+		"Fecha": "2025-05-13T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0179",
+		"IdCliente": 22,
+		"IdProducto": 19,
+		"Fecha": "2024-12-08T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0180",
+		"IdCliente": 30,
+		"IdProducto": 6,
+		"Fecha": "2024-10-25T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0181",
+		"IdCliente": 5,
+		"IdProducto": 5,
+		"Fecha": "2025-08-26T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0182",
+		"IdCliente": 3,
+		"IdProducto": 7,
+		"Fecha": "2025-04-05T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0183",
+		"IdCliente": 26,
+		"IdProducto": 17,
+		"Fecha": "2025-01-14T00:00:00",
+		"Comentario": "Satisface lo básico. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0184",
+		"IdCliente": 13,
+		"IdProducto": 2,
+		"Fecha": "2024-10-13T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0185",
+		"IdCliente": 8,
+		"IdProducto": 9,
+		"Fecha": "2025-02-21T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0186",
+		"IdCliente": 22,
+		"IdProducto": 13,
+		"Fecha": "2024-09-24T00:00:00",
+		"Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0187",
+		"IdCliente": 34,
+		"IdProducto": 12,
+		"Fecha": "2025-02-08T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0188",
+		"IdCliente": 39,
+		"IdProducto": 14,
+		"Fecha": "2024-12-08T00:00:00",
+		"Comentario": "Información suficiente, sin mayor novedad. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0189",
+		"IdCliente": 7,
+		"IdProducto": 11,
+		"Fecha": "2025-04-10T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0190",
+		"IdCliente": 28,
+		"IdProducto": 20,
+		"Fecha": "2025-03-18T00:00:00",
+		"Comentario": "Calidad superior, muy contento. Muy recomendable.",
+		"Rating": 4
+	},
+	{
+		"IdOriginal": "W0191",
+		"IdCliente": 23,
+		"IdProducto": 2,
+		"Fecha": "2025-04-26T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0192",
+		"IdCliente": 26,
+		"IdProducto": 3,
+		"Fecha": "2025-08-29T00:00:00",
+		"Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0193",
+		"IdCliente": 29,
+		"IdProducto": 20,
+		"Fecha": "2025-05-16T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0194",
+		"IdCliente": 25,
+		"IdProducto": 12,
+		"Fecha": "2024-11-08T00:00:00",
+		"Comentario": "Producto recibido, cumple su función. OK.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0195",
+		"IdCliente": 24,
+		"IdProducto": 15,
+		"Fecha": "2024-11-24T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0196",
+		"IdCliente": 24,
+		"IdProducto": 17,
+		"Fecha": "2025-05-09T00:00:00",
+		"Comentario": "Producto llegó rápido y funciona perfecto. Muy recomendable.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0197",
+		"IdCliente": 12,
+		"IdProducto": 1,
+		"Fecha": "2024-11-30T00:00:00",
+		"Comentario": "No cumple con lo anunciado, insatisfecho. No volvería a comprar.",
+		"Rating": 1
+	},
+	{
+		"IdOriginal": "W0198",
+		"IdCliente": 17,
+		"IdProducto": 9,
+		"Fecha": "2024-11-04T00:00:00",
+		"Comentario": "Información suficiente, sin mayor novedad. OK.",
+		"Rating": 3
+	},
+	{
+		"IdOriginal": "W0199",
+		"IdCliente": 13,
+		"IdProducto": 16,
+		"Fecha": "2025-01-25T00:00:00",
+		"Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+		"Rating": 2
+	},
+	{
+		"IdOriginal": "W0200",
+		"IdCliente": 6,
+		"IdProducto": 15,
+		"Fecha": "2024-10-07T00:00:00",
+		"Comentario": "Es lo que esperaba, nada excepcional. OK.",
+		"Rating": 3
+	}
+]

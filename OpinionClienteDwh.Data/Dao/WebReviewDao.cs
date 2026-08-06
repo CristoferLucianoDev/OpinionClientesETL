@@ -7,7 +7,7 @@ using System.Data;
 
 namespace OpinionClienteDwh.Data.Dao;
 
-public sealed class WebReviewDao : IWebReviewDao
+public sealed class WebReviewDao : IDao<WebReviewDto>
 {
     private readonly string _connectionString;
     private readonly ILogger<WebReviewDao> _logger;
@@ -20,7 +20,7 @@ public sealed class WebReviewDao : IWebReviewDao
         _logger = logger;
     }
 
-    public async Task<IReadOnlyList<WebReviewDto>> GetWebReviewsAsync(CancellationToken cancellationToken)
+    public async Task<IReadOnlyList<WebReviewDto>> GetAsync(CancellationToken cancellationToken)
     {
         var resultado = new List<WebReviewDto>();
 
