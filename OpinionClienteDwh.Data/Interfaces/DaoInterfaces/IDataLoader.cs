@@ -1,4 +1,4 @@
-﻿namespace OpinionClienteDwh.Data.Interfaces;
+﻿namespace OpinionClienteDwh.Data.Interfaces.DaoInterfaces;
 
 public interface IDataLoader
 {

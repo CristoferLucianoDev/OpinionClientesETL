@@ -9,26 +9,38 @@ public sealed class OrquestadorExtraccion
     private readonly IExtractor<SurveyDto> _csvExtractor;
     private readonly IExtractor<WebReviewDto> _databaseExtractor;
     private readonly IExtractor<SocialCommentDto> _apiExtractor;
+    private readonly IExtractor<ClienteDto> _clienteExtractor;
+    private readonly IExtractor<ProductoDto> _productoExtractor;
     private readonly IValidator<SurveyDto> _surveyValidator;
     private readonly IValidator<WebReviewDto> _webReviewValidator;
     private readonly IValidator<SocialCommentDto> _socialCommentValidator;
+    private readonly IValidator<ClienteDto> _clienteValidator;
+    private readonly IValidator<ProductoDto> _productoValidator;
     private readonly ILogger<OrquestadorExtraccion> _logger;
 
     public OrquestadorExtraccion(
         IExtractor<SurveyDto> csvExtractor,
         IExtractor<WebReviewDto> databaseExtractor,
         IExtractor<SocialCommentDto> apiExtractor,
+        IExtractor<ClienteDto> clienteExtractor,
+        IExtractor<ProductoDto> productoExtractor,
         IValidator<SurveyDto> surveyValidator,
         IValidator<WebReviewDto> webReviewValidator,
         IValidator<SocialCommentDto> socialCommentValidator,
+        IValidator<ClienteDto> clienteValidator,
+        IValidator<ProductoDto> productoValidator,
         ILogger<OrquestadorExtraccion> logger)
     {
         _csvExtractor = csvExtractor;
         _databaseExtractor = databaseExtractor;
         _apiExtractor = apiExtractor;
+        _clienteExtractor = clienteExtractor;
+        _productoExtractor = productoExtractor;
         _surveyValidator = surveyValidator;
         _webReviewValidator = webReviewValidator;
         _socialCommentValidator = socialCommentValidator;
+        _clienteValidator = clienteValidator;
+        _productoValidator = productoValidator;
         _logger = logger;
     }
 
@@ -37,14 +49,18 @@ public sealed class OrquestadorExtraccion
         var tareaSurveys = ExtraerYValidarAsync(_csvExtractor, _surveyValidator, "Surveys (CSV)", cancellationToken);
         var tareaWebReviews = ExtraerYValidarAsync(_databaseExtractor, _webReviewValidator, "WebReviews (BD)", cancellationToken);
         var tareaSocialComments = ExtraerYValidarAsync(_apiExtractor, _socialCommentValidator, "SocialComments (API)", cancellationToken);
+        var tareaClientes = ExtraerYValidarAsync(_clienteExtractor, _clienteValidator, "Clientes (BD)", cancellationToken);
+        var tareaProductos = ExtraerYValidarAsync(_productoExtractor, _productoValidator, "Productos (BD)", cancellationToken);
 
-        await Task.WhenAll(tareaSurveys, tareaWebReviews, tareaSocialComments);
+        await Task.WhenAll(tareaSurveys, tareaWebReviews, tareaSocialComments, tareaClientes, tareaProductos);
 
         return new ExtractResult
         {
             Surveys = tareaSurveys.Result,
             WebReviews = tareaWebReviews.Result,
-            SocialComments = tareaSocialComments.Result
+            SocialComments = tareaSocialComments.Result,
+            Clientes = tareaClientes.Result,
+            Productos = tareaProductos.Result
         };
     }
 

@@ -7,9 +7,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Nlp\Resources\stopwords-es.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Nlp\Resources\stopwords-es.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<PackageReference Include="Catalyst" Version="26.6.2084" />
+    <PackageReference Include="Catalyst.Models.Spanish" Version="1.0.30952" />
     <PackageReference Include="CsvHelper" Version="33.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.29" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.29" />
+    <PackageReference Include="Mosaik.Core" Version="26.6.2351" />
     <PackageReference Include="Polly" Version="8.7.0" />
   </ItemGroup>
 

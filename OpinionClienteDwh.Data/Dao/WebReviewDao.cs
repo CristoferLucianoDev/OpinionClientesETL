@@ -1,44 +1,25 @@
-﻿using Microsoft.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using OpinionClienteDwh.Data.Common;
 using OpinionClienteDwh.Data.Dtos;
 using OpinionClienteDwh.Data.Interfaces.DaoInterfaces;
-using System.Data;
 
 namespace OpinionClienteDwh.Data.Dao;
 
-public sealed class WebReviewDao : IDao<WebReviewDto>
+public sealed class WebReviewDao(IConfiguration configuration, ILogger<WebReviewDao> logger)
+    : SqlServerConnection(configuration, "OpinionesOltp"), IDao<WebReviewDto>
 {
-    private readonly string _connectionString;
-    private readonly ILogger<WebReviewDao> _logger;
-
-    public WebReviewDao(IConfiguration configuration, ILogger<WebReviewDao> logger)
-    {
-        _connectionString = configuration.GetConnectionString("OpinionesOltp")
-            ?? throw new InvalidOperationException(
-                "No se encontro la cadena de conexion 'OpinionesOltp' en la configuracion.");
-        _logger = logger;
-    }
+    private readonly ILogger<WebReviewDao> _logger = logger;
 
     public async Task<IReadOnlyList<WebReviewDto>> GetAsync(CancellationToken cancellationToken)
     {
-        var resultado = new List<WebReviewDto>();
-
         try
         {
-            await using var connection = new SqlConnection(_connectionString);
-            await connection.OpenAsync(cancellationToken);
-
-            await using var command = new SqlCommand("dbo.SP_ObtenerWebReviews", connection)
-            {
-                CommandType = CommandType.StoredProcedure
-            };
-
-            await using var reader = await command.ExecuteReaderAsync(cancellationToken);
-
-            while (await reader.ReadAsync(cancellationToken))
-            {
-                resultado.Add(new WebReviewDto
+            return await ExecuteReaderAsync(
+                "dbo.SP_ObtenerWebReviews",
+                command => { },
+                reader => new WebReviewDto
                 {
                     IdOriginal = reader.GetString(reader.GetOrdinal("IdOriginal")),
                     IdCliente = reader.GetInt32(reader.GetOrdinal("IdCliente")),
@@ -46,10 +27,8 @@ public sealed class WebReviewDao : IDao<WebReviewDto>
                     Fecha = reader.GetDateTime(reader.GetOrdinal("Fecha")),
                     Comentario = reader.GetString(reader.GetOrdinal("Comentario")),
                     Rating = reader.GetDecimal(reader.GetOrdinal("Rating"))
-                });
-            }
-
-            return resultado;
+                },
+                cancellationToken);
         }
         catch (SqlException ex)
         {
@@ -64,5 +43,5 @@ public sealed class WebReviewDao : IDao<WebReviewDto>
             _logger.LogError(ex, "Error inesperado en WebReviewDao.ObtenerWebReviewsAsync.");
             throw;
         }
-        }
     }
+}

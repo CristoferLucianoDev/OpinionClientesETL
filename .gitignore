@@ -364,3 +364,25 @@ FodyWeavers.xsd
 
 #JSON
 appsettings.json
+
+# ---------------------------------------------------------------------------
+# Especifico del proyecto OpinionClientes
+# ---------------------------------------------------------------------------
+
+# Documentacion interna de arquitectura (no se publica en el repo)
+ARQUITECTURA.md
+
+# Indice de CodeGraph (cache local de analisis de codigo)
+.codegraph/
+
+# Configuracion local de Claude Code
+.claude/
+
+# Salidas de Staging del ETL: se regeneran en cada corrida del Worker
+OpinionClienteDwh.Worker/Staging/*.json
+
+# Modelos NLP descargados en tiempo de ejecucion (Catalyst)
+OpinionClienteDwh.Worker/catalyst-models/
+
+# Backups temporales que genera Visual Studio sobre archivos de proyecto
+*.csproj.Backup.tmp

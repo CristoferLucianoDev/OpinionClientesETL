@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-using OpinionClienteDwh.Data.Interfaces;
+using OpinionClienteDwh.Data.Interfaces.DaoInterfaces;
 
 namespace OpinionClienteDwh.Data.Services;
 
@@ -32,6 +32,8 @@ public sealed class DataLoader : IDataLoader
         await EscribirArchivoAsync("surveys", timestamp, resultado.Surveys, cancellationToken);
         await EscribirArchivoAsync("webreviews", timestamp, resultado.WebReviews, cancellationToken);
         await EscribirArchivoAsync("socialcomments", timestamp, resultado.SocialComments, cancellationToken);
+        await EscribirArchivoAsync("clientes", timestamp, resultado.Clientes, cancellationToken);
+        await EscribirArchivoAsync("productos", timestamp, resultado.Productos, cancellationToken);
     }
 
     private async Task EscribirArchivoAsync<T>(
