@@ -12,6 +12,9 @@ public sealed class DaoFactOpinion(IConfiguration configuration)
     public Task LimpiarStagingAsync()
         => ExecuteNonQueryAsync("dbo.SP_LimpiarStagingFactOpinion", command => { });
 
+    public Task LimpiarFactAsync()
+    => ExecuteNonQueryAsync("dbo.SP_LimpiarFactOpinion", command => { });
+
     public Task CargarStagingAsync(DataTable staging)
         => BulkInsertAsync(
             EsquemasStaging.FactOpinion.NombreTabla,

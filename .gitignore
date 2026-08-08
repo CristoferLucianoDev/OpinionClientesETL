@@ -380,6 +380,7 @@ ARQUITECTURA.md
 
 # Salidas de Staging del ETL: se regeneran en cada corrida del Worker
 OpinionClienteDwh.Worker/Staging/*.json
+OpinionClienteDwh.Worker/Logs/*.txt
 
 # Modelos NLP descargados en tiempo de ejecucion (Catalyst)
 OpinionClienteDwh.Worker/catalyst-models/

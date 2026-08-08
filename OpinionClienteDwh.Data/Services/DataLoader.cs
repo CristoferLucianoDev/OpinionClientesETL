@@ -1,7 +1,8 @@
-﻿using System.Text.Json;
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using OpinionClienteDwh.Data.Common;
 using OpinionClienteDwh.Data.Interfaces.DaoInterfaces;
+using System.Text.Json;
 
 namespace OpinionClienteDwh.Data.Services;
 
@@ -27,7 +28,7 @@ public sealed class DataLoader : IDataLoader
     {
         Directory.CreateDirectory(_rutaStaging);
 
-        var timestamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
+        var timestamp = RunContext.Timestamp;
 
         await EscribirArchivoAsync("surveys", timestamp, resultado.Surveys, cancellationToken);
         await EscribirArchivoAsync("webreviews", timestamp, resultado.WebReviews, cancellationToken);
