@@ -37,6 +37,9 @@ public sealed class DaoFactPalabraClaveOpinion(IConfiguration configuration)
         return resultado.ToDictionary(x => x.Palabra, x => x.IdPalabraClave, StringComparer.OrdinalIgnoreCase);
     }
 
+    public Task LimpiarFactAsync()
+    => ExecuteNonQueryAsync("dbo.SP_LimpiarFactPalabraClaveOpinion", command => { });
+
     public Task LimpiarStagingAsync()
         => ExecuteNonQueryAsync("dbo.SP_LimpiarStagingFactPalabraClaveOpinion", command => { });
 

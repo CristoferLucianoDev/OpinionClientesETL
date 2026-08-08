@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using OpinionClienteDwh.Data.Cache;
+using OpinionClienteDwh.Data.Common;
 using OpinionClienteDwh.Data.Dao;
 using OpinionClienteDwh.Data.Dtos;
 using OpinionClienteDwh.Data.Extractors;
@@ -9,8 +11,8 @@ using OpinionClienteDwh.Data.Interfaces;
 using OpinionClienteDwh.Data.Interfaces.DaoInterfaces;
 using OpinionClienteDwh.Data.Load.Daos;
 using OpinionClienteDwh.Data.Load.Services;
+using OpinionClienteDwh.Data.Logging;
 using OpinionClienteDwh.Data.Nlp;
-using OpinionClienteDwh.Data.Cache;
 using OpinionClienteDwh.Data.Persistence;
 using OpinionClienteDwh.Data.Services;
 using OpinionClienteDwh.Data.Staging;
@@ -58,6 +60,10 @@ builder.Services.AddScoped<IExtractor<SocialCommentDto>>(sp =>
     return new ApiExtractor<SocialCommentDto>(client, "api/SocialComments", logger);
 });
 
+var rutaLogs = builder.Configuration["RutasArchivos:Logs"]
+    ?? throw new InvalidOperationException("No se encontro 'RutasArchivos:Logs' en la configuracion.");
+
+builder.Logging.AddProvider(new FileLoggerProvider(rutaLogs, RunContext.Timestamp));
 builder.Services.AddScoped<IValidator<SurveyDto>, SurveyValidator>();
 builder.Services.AddScoped<IValidator<WebReviewDto>, WebReviewValidator>();
 builder.Services.AddScoped<IValidator<SocialCommentDto>, SocialCommentValidator>();
